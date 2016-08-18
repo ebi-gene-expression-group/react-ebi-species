@@ -1,0 +1,22 @@
+/* Taken from: http://www.ebi.ac.uk/web_guidelines/css/compliance/develop/ebi-visual.css */
+
+@font-face {
+    font-family: 'EBI-Species';
+    src: url('http://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot');
+    src: url('http://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot?#iefix') format('embedded-opentype'), url('http://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.woff') format('woff'), local('☺'), url('http://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.svg#EBI-Species') format('svg'), url('http://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal
+}
+
+.icon-species:before {
+    font-family: 'EBI-Species';
+    font-size: 100%;
+    color: inherit;
+    content: attr(data-icon);
+    margin: 0 0.3em 0 0
+}
+
+.icon {
+    text-decoration: none;
+    font-style: normal
+}

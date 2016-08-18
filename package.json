@@ -1,0 +1,39 @@
+{
+  "name": "react-ebi-species",
+  "version": "0.0.1",
+  "description": "React component based on the EBI species icons",
+  "main": "index.js",
+  "author": "Wojciech Bazant <wbazant@ebi.ac.uk>, Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbazant/react-ebi-species"
+  },
+  "keywords":[
+    "react",
+    "icon",
+    "ebi",
+    "species",
+    "ensembl",
+    "bioinformatics",
+    "biology",
+    "rabbit",
+    "chicken"
+  ],
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.0",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-react-display-name": "^6.5.0",
+    "babel-plugin-transform-react-jsx": "^6.6.5",
+    "clean-webpack-plugin": "^0.1.10",
+    "css-loader": "^0.23.1",
+    "expose-loader": "^0.7.0",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
