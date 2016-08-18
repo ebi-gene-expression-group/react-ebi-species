@@ -12,13 +12,13 @@ module.exports = {
     output: {
         libraryTarget: 'var',
         library: '[name]',
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'html/dist'),
         filename: '[name].bundle.js',
-        publicPath: '/dist/'
+        publicPath: 'html/dist/'
     },
 
     plugins: [
-        new CleanWebpackPlugin(['dist'], {verbose: true, dry: false}),
+        new CleanWebpackPlugin(['html/dist'], {verbose: true, dry: false}),
         new webpack.optimize.CommonsChunkPlugin({
             name: 'dependencies',
             filename: 'vendor.bundle.js',
