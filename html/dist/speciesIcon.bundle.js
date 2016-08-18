@@ -406,7 +406,6 @@ webpackJsonp_name_([2],{
 		"animals": {
 			"C": "bos taurus",
 			"d": ["canis lupus", "canis lupus familiaris"],
-			"F": "drosophila melanogaster",
 			"H": "homo sapiens",
 			"k": "gallus gallus",
 			"G": "gorilla gorilla",

@@ -2,7 +2,6 @@ module.exports = {
 	"animals": {
 		"C": "bos taurus",
 		"d": ["canis lupus", "canis lupus familiaris"],
-		"F": "drosophila melanogaster",
 		"H": "homo sapiens",
 		"k": "gallus gallus",
 		"G": "gorilla gorilla",
