@@ -1,6 +1,6 @@
 {
   "name": "react-ebi-species",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React component based on the EBI species icons",
   "main": "index.js",
   "author": "Wojciech Bazant <wbazant@ebi.ac.uk> Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",
