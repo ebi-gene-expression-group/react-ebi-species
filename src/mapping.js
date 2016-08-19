@@ -1,5 +1,5 @@
 module.exports = {
-	"animals": {
+	"mammals": {
 		"C": "bos taurus",
 		"d": ["canis lupus", "canis lupus familiaris"],
 		"H": "homo sapiens",
@@ -11,16 +11,17 @@ module.exports = {
 		"i": ["pan paniscus", "pan troglodytes"],
 		"R": "rattus norvegicus",
 		"t": "oryctolagus cuniculus",
-		"8": "papio anubis",
-		"Z": "danio rerio"
+		"8": "papio anubis"
 	},
 	"plants": {
 		"B": "arabidopsis thaliana",
-		"5": ["hordeum vulgare", "hordeum vulgare subsp. vulgare", "zea mays"],
-		"6": ["oryza sativa", "oryza sativa japonica group"]
+		"5": ["hordeum vulgare", "hordeum vulgare subsp. vulgare"],
+		"6": ["oryza sativa", "oryza sativa japonica group"],
+		"c": "zea mays"
 	},
 	"other": {
 		"7": "anolis carolinensis",
+		"Z": "danio rerio",
 		"F": "drosophila melanogaster",
 		"W": ["caenorhabditis elegans","schistosoma mansoni"],
 		"E": "tetraodon nigroviridis",

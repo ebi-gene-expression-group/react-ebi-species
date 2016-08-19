@@ -31,14 +31,14 @@ webpackJsonp_name_([2],{
 	  propTypes: {
 	    species: React.PropTypes.string.isRequired,
 	    colourOverride: React.PropTypes.string,
-	    colourPerKingdom: React.PropTypes.objectOf(React.PropTypes.string).isRequired
+	    colourPerGroup: React.PropTypes.objectOf(React.PropTypes.string).isRequired
 	  },
 
 	  getDefaultProps: function () {
 	    return {
 	      species: "oryctolagus cuniculus", //rabbit is objectively the best species
-	      colourPerKingdom: {
-	        animals: "red",
+	      colourPerGroup: {
+	        mammals: "red",
 	        plants: "green",
 	        other: "blue"
 	      }
@@ -46,12 +46,12 @@ webpackJsonp_name_([2],{
 	  },
 
 	  _lookUpIcon: function () {
-	    for (var kingdom in mapping) {
-	      if (mapping.hasOwnProperty(kingdom)) {
-	        for (var iconSymbol in mapping[kingdom]) {
-	          if (mapping[kingdom].hasOwnProperty(iconSymbol)) {
-	            if (mapping[kingdom][iconSymbol].indexOf(this.props.species.toLowerCase()) > -1) {
-	              return [kingdom, iconSymbol];
+	    for (var group in mapping) {
+	      if (mapping.hasOwnProperty(group)) {
+	        for (var iconSymbol in mapping[group]) {
+	          if (mapping[group].hasOwnProperty(iconSymbol)) {
+	            if (mapping[group][iconSymbol].indexOf(this.props.species.toLowerCase()) > -1) {
+	              return [group, iconSymbol];
 	            }
 	          }
 	        }
@@ -61,11 +61,11 @@ webpackJsonp_name_([2],{
 	  },
 
 	  render: function () {
-	    var kingdomAndIcon = this._lookUpIcon();
+	    var groupAndIcon = this._lookUpIcon();
 	    return React.createElement("span", {
-	      className: "icon icon-species",
-	      "data-icon": kingdomAndIcon[1],
-	      style: { "color": this.props.colourOverride || this.props.colourPerKingdom[kingdomAndIcon[0]] },
+	      className: "react-ebi-species icon icon-species",
+	      "data-icon": groupAndIcon[1],
+	      style: { "color": this.props.colourOverride || this.props.colourPerGroup[groupAndIcon[0]] },
 	      title: this.props.species });
 	  }
 
@@ -112,7 +112,7 @@ webpackJsonp_name_([2],{
 
 
 	// module
-	exports.push([module.id, "/* Taken from: https://www.ebi.ac.uk/web_guidelines/css/compliance/develop/ebi-visual.css */\n\n@font-face {\n    font-family: 'EBI-Species';\n    src: url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot');\n    src: url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot?#iefix') format('embedded-opentype'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.woff') format('woff'), local('\\263A'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.svg#EBI-Species') format('svg'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.ttf') format('truetype');\n    font-weight: normal;\n    font-style: normal\n}\n\n.icon-species:before {\n    font-family: 'EBI-Species';\n    font-size: 100%;\n    color: inherit;\n    content: attr(data-icon);\n    margin: 0 0.3em 0 0\n}\n\n.icon {\n    text-decoration: none;\n    font-style: normal\n}\n", ""]);
+	exports.push([module.id, "/* Taken from: https://www.ebi.ac.uk/web_guidelines/css/compliance/develop/ebi-visual.css */\n\n@font-face {\n    font-family: 'EBI-Species';\n    src: url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot');\n    src: url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot?#iefix') format('embedded-opentype'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.woff') format('woff'), local('\\263A'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.svg#EBI-Species') format('svg'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.ttf') format('truetype');\n    font-weight: normal;\n    font-style: normal\n}\n\n.react-ebi-species.icon-species:before {\n    font-family: 'EBI-Species';\n    font-size: 100%;\n    color: inherit;\n    content: attr(data-icon);\n    margin: 0 0.3em 0 0\n}\n\n.react-ebi-species.icon {\n    text-decoration: none;\n    font-style: normal\n}\n", ""]);
 
 	// exports
 
@@ -403,7 +403,7 @@ webpackJsonp_name_([2],{
 /***/ function(module, exports) {
 
 	module.exports = {
-		"animals": {
+		"mammals": {
 			"C": "bos taurus",
 			"d": ["canis lupus", "canis lupus familiaris"],
 			"H": "homo sapiens",
@@ -415,16 +415,17 @@ webpackJsonp_name_([2],{
 			"i": ["pan paniscus", "pan troglodytes"],
 			"R": "rattus norvegicus",
 			"t": "oryctolagus cuniculus",
-			"8": "papio anubis",
-			"Z": "danio rerio"
+			"8": "papio anubis"
 		},
 		"plants": {
 			"B": "arabidopsis thaliana",
-			"5": ["hordeum vulgare", "hordeum vulgare subsp. vulgare", "zea mays"],
-			"6": ["oryza sativa", "oryza sativa japonica group"]
+			"5": ["hordeum vulgare", "hordeum vulgare subsp. vulgare"],
+			"6": ["oryza sativa", "oryza sativa japonica group"],
+			"c": "zea mays"
 		},
 		"other": {
 			"7": "anolis carolinensis",
+			"Z": "danio rerio",
 			"F": "drosophila melanogaster",
 			"W": ["caenorhabditis elegans", "schistosoma mansoni"],
 			"E": "tetraodon nigroviridis",
