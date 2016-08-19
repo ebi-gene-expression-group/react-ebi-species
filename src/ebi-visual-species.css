@@ -8,7 +8,7 @@
     font-style: normal
 }
 
-.react-ebi-species.icon-species:before {
+.react-ebi-species-icon:before {
     font-family: 'EBI-Species';
     font-size: 100%;
     color: inherit;
@@ -16,7 +16,7 @@
     margin: 0 0.3em 0 0
 }
 
-.react-ebi-species.icon {
+.react-ebi-species-icon {
     text-decoration: none;
     font-style: normal
 }

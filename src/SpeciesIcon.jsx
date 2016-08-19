@@ -48,7 +48,7 @@ var Icon = React.createClass({
       var groupAndIcon = this._lookUpIcon();
         return (
             <span
-            className={"react-ebi-species icon icon-species"}
+            className={"react-ebi-species-icon"}
             data-icon={groupAndIcon[1]}
             style={{"color": this.props.colourOverride || this.props.colourPerGroup[groupAndIcon[0]]}}
             title={this.props.species}/>
