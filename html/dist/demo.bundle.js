@@ -478,7 +478,7 @@ webpackJsonp_name_([0],{
 			"5": ["hordeum vulgare", "hordeum vulgare subsp. vulgare"],
 			"6": ["oryza sativa", "oryza sativa japonica group"],
 			"c": "zea mays",
-			"P": ["brachypodium distachyon", "glycine max", "solanum lycopersicum", "sorghum bicolor", "vitis vinifera"]
+			"P": ["brachypodium distachyon", "glycine max", "solanum lycopersicum", "sorghum bicolor", "vitis vinifera", "triticum aestivum"]
 		},
 		"other": {
 			"7": "anolis carolinensis",
