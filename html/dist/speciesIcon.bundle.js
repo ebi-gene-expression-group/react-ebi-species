@@ -34,7 +34,7 @@ webpackJsonp_name_([2],{
 	    colourPerGroup: React.PropTypes.objectOf(React.PropTypes.string).isRequired
 	  },
 
-	  getDefaultProps: function () {
+	  getDefaultProps: function getDefaultProps() {
 	    return {
 	      species: "oryctolagus cuniculus", //rabbit is objectively the best species
 	      colourPerGroup: {
@@ -45,7 +45,7 @@ webpackJsonp_name_([2],{
 	    };
 	  },
 
-	  _lookUpIcon: function () {
+	  _lookUpIcon: function _lookUpIcon() {
 	    for (var group in mapping) {
 	      if (mapping.hasOwnProperty(group)) {
 	        for (var iconSymbol in mapping[group]) {
@@ -60,7 +60,7 @@ webpackJsonp_name_([2],{
 	    return ["", ""];
 	  },
 
-	  render: function () {
+	  render: function render() {
 	    var groupAndIcon = this._lookUpIcon();
 	    return React.createElement("span", {
 	      className: "react-ebi-species-icon",
@@ -121,6 +121,8 @@ webpackJsonp_name_([2],{
 
 /***/ 163:
 /***/ function(module, exports) {
+
+	"use strict";
 
 	/*
 		MIT License http://www.opensource.org/licenses/mit-license.php
@@ -401,6 +403,8 @@ webpackJsonp_name_([2],{
 
 /***/ 165:
 /***/ function(module, exports) {
+
+	"use strict";
 
 	module.exports = {
 		"mammals": {

@@ -4,7 +4,9 @@ webpackJsonp_name_([0],{
 /***/ 0:
 /***/ function(module, exports, __webpack_require__) {
 
-	/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["exposed"] = __webpack_require__(1);
+	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
+
+	module.exports = global["exposed"] = __webpack_require__(1);
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
@@ -88,7 +90,7 @@ webpackJsonp_name_([0],{
 	    colourPerGroup: React.PropTypes.objectOf(React.PropTypes.string).isRequired
 	  },
 
-	  getDefaultProps: function () {
+	  getDefaultProps: function getDefaultProps() {
 	    return {
 	      species: "oryctolagus cuniculus", //rabbit is objectively the best species
 	      colourPerGroup: {
@@ -99,7 +101,7 @@ webpackJsonp_name_([0],{
 	    };
 	  },
 
-	  _lookUpIcon: function () {
+	  _lookUpIcon: function _lookUpIcon() {
 	    for (var group in mapping) {
 	      if (mapping.hasOwnProperty(group)) {
 	        for (var iconSymbol in mapping[group]) {
@@ -114,7 +116,7 @@ webpackJsonp_name_([0],{
 	    return ["", ""];
 	  },
 
-	  render: function () {
+	  render: function render() {
 	    var groupAndIcon = this._lookUpIcon();
 	    return React.createElement("span", {
 	      className: "react-ebi-species-icon",
@@ -175,6 +177,8 @@ webpackJsonp_name_([0],{
 
 /***/ 163:
 /***/ function(module, exports) {
+
+	"use strict";
 
 	/*
 		MIT License http://www.opensource.org/licenses/mit-license.php
@@ -455,6 +459,8 @@ webpackJsonp_name_([0],{
 
 /***/ 165:
 /***/ function(module, exports) {
+
+	"use strict";
 
 	module.exports = {
 		"mammals": {

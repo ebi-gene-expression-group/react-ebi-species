@@ -28,7 +28,8 @@ module.exports = {
 
     module: {
         loaders: [
-            {test: /\.jsx?$/, loader: 'babel-loader'},
+            {test: /\.js$/, loader: 'babel', query: {presets: ['es2015']}},
+            {test: /\.jsx$/, loader: 'babel', query: {presets: ['es2015', 'react']}},
             {test: /demo.js$/, loader: 'expose?exposed'},
             {test: /\.css$/, loader: 'style-loader!css-loader'}
         ]
