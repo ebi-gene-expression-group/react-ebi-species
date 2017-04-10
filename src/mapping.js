@@ -27,7 +27,7 @@ module.exports = {
 		"Z": "danio rerio",
 		"F": "drosophila melanogaster",
 		"W": ["caenorhabditis elegans","schistosoma mansoni"],
-		"": "saccharomyces cerevisiae",
+		"": ["saccharomyces cerevisiae", "schizosaccharomyces pombe"],
 		"E": "tetraodon nigroviridis",
 		"f": ["xenopus (silurana) tropicalis", "xenopus tropicalis"],
 	}
