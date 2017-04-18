@@ -10,10 +10,8 @@
 
 .react-ebi-species-icon:before {
     font-family: 'EBI-Species';
-    font-size: 100%;
     color: inherit;
     content: attr(data-icon);
-    margin: 0 0.3em 0 0
 }
 
 .react-ebi-species-icon {
