@@ -6,12 +6,12 @@ webpackJsonp_name_([2],{
 
 	"use strict";
 
-	exports.Icon = __webpack_require__(160);
-	exports.render = __webpack_require__(166);
+	exports.Icon = __webpack_require__(192);
+	exports.render = __webpack_require__(198);
 
 /***/ },
 
-/***/ 160:
+/***/ 192:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -19,8 +19,8 @@ webpackJsonp_name_([2],{
 	//*------------------------------------------------------------------*
 
 	var React = __webpack_require__(2);
-	__webpack_require__(161);
-	var mapping = __webpack_require__(165);
+	__webpack_require__(193);
+	var mapping = __webpack_require__(197);
 
 	//*------------------------------------------------------------------*
 
@@ -77,16 +77,16 @@ webpackJsonp_name_([2],{
 
 /***/ },
 
-/***/ 161:
+/***/ 193:
 /***/ function(module, exports, __webpack_require__) {
 
 	// style-loader: Adds some css to the DOM by adding a <style> tag
 
 	// load the styles
-	var content = __webpack_require__(162);
+	var content = __webpack_require__(194);
 	if(typeof content === 'string') content = [[module.id, content, '']];
 	// add the styles to the DOM
-	var update = __webpack_require__(164)(content, {});
+	var update = __webpack_require__(196)(content, {});
 	if(content.locals) module.exports = content.locals;
 	// Hot Module Replacement
 	if(false) {
@@ -104,22 +104,22 @@ webpackJsonp_name_([2],{
 
 /***/ },
 
-/***/ 162:
+/***/ 194:
 /***/ function(module, exports, __webpack_require__) {
 
-	exports = module.exports = __webpack_require__(163)();
+	exports = module.exports = __webpack_require__(195)();
 	// imports
 
 
 	// module
-	exports.push([module.id, "/* Taken from: https://www.ebi.ac.uk/web_guidelines/css/compliance/develop/ebi-visual.css */\n\n@font-face {\n    font-family: 'EBI-Species';\n    src: url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot');\n    src: url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.eot?#iefix') format('embedded-opentype'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.woff') format('woff'), local('\\263A'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.svg#EBI-Species') format('svg'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.ttf') format('truetype');\n    font-weight: normal;\n    font-style: normal\n}\n\n.react-ebi-species-icon:before {\n    font-family: 'EBI-Species';\n    font-size: 100%;\n    color: inherit;\n    content: attr(data-icon);\n    margin: 0 0.3em 0 0\n}\n\n.react-ebi-species-icon {\n    text-decoration: none;\n    font-style: normal\n}\n", ""]);
+	exports.push([module.id, "/* Taken from: https://github.com/ebiwd/EBI-Icon-fonts */\n\n@font-face {\n    font-family: 'EBI-Species';\n    src: url('https://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.1/EBI-Species/fonts/EBI-Species.eot');\n    src: url('https://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.1/EBI-Species/fonts/EBI-Species.eot?#iefix') format('embedded-opentype'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.woff') format('woff'), local('\\263A'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.svg#EBI-Species') format('svg'), url('https://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/fonts/EBI-Species.ttf') format('truetype');\n    font-weight: normal;\n    font-style: normal\n}\n\n.react-ebi-species-icon:before {\n    font-family: 'EBI-Species';\n    color: inherit;\n    content: attr(data-icon);\n}\n\n.react-ebi-species-icon {\n    text-decoration: none;\n    font-style: normal\n}\n", ""]);
 
 	// exports
 
 
 /***/ },
 
-/***/ 163:
+/***/ 195:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -175,7 +175,7 @@ webpackJsonp_name_([2],{
 
 /***/ },
 
-/***/ 164:
+/***/ 196:
 /***/ function(module, exports, __webpack_require__) {
 
 	/*
@@ -401,7 +401,7 @@ webpackJsonp_name_([2],{
 
 /***/ },
 
-/***/ 165:
+/***/ 197:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -443,7 +443,7 @@ webpackJsonp_name_([2],{
 
 /***/ },
 
-/***/ 166:
+/***/ 198:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -451,11 +451,11 @@ webpackJsonp_name_([2],{
 	//*------------------------------------------------------------------*
 
 	var React = __webpack_require__(2);
-	var ReactDOM = __webpack_require__(159);
+	var ReactDOM = __webpack_require__(37);
 
 	//*------------------------------------------------------------------*
 
-	var Icon = __webpack_require__(160);
+	var Icon = __webpack_require__(192);
 
 	//*------------------------------------------------------------------*
 
