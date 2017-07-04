@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "dist": "NODE_ENV=production webpack --optimize-minimize",
-    "build": "babel src -d lib",
+    "build": "babel src -d lib --copy-files",
     "prepublish": "rm -rf lib && npm run build && npm run dist",
     "test": "jest"
   },
