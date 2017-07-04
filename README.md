@@ -1,11 +1,11 @@
 EBI species icons for React
 ======================
 
-Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/fonts/EBI-Species/), mapped per species so one can select the correct icon programmatically.
+Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/), mapped per species so one can select the correct icon programmatically.
 
 [Demo of all supported species](https://wbazant.github.io/react-ebi-species/html/)
 
-It is meant to work with lowercase scientific names as in [Ensembl reference](http://www.ensembl.org/info/about/species.html). For the species we include, see search box in [Expression Atlas](http://www.ebi.ac.uk/gxa)
+It is meant to work with lowercase scientific names as in [Ensembl reference](http://www.ensembl.org/info/about/species.html). For some of (but not all) available, see search box in [Expression Atlas](http://www.ebi.ac.uk/gxa)
 
 Pull requests to enlarge the mapping of species to icons, or with alternative names of species, are very welcome!
 
@@ -13,14 +13,30 @@ Pull requests to enlarge the mapping of species to icons, or with alternative na
 To install:
 `npm install --save react-ebi-species`
 
-To build the files for standalone use:
-`npm run [dev/dev-min/ci/prod]`
-
 To use as a React component:
-`var SpeciesIcon = require('react-ebi-species').Icon;`
+```
+import EbiSpeciesIcon from 'react-ebi-species'
+...
+<EbiSpeciesIcon species="homo sapiens"/>
+```
 
 To use as a renderer and attach the icons to DOM elements:
-`var render = require('react-ebi-species').render;`
+```
+import {render} from 'react-ebi-species'
+...
+render({species: 'homo sapiens'}, 'id-of-your-DOM-element')
+```
+
+To use directly in your browser (see `html/index.hml`):
+```
+<script src="dist/vendorCommons.bundle.js"></script>
+<script src="dist/ebiSpeciesIcon.bundle.js"></script>
+
+<script>
+    ebiSpeciesIcon.render({}, 'id-of-your-DOM-element')
+</script>
+
+```
 
 Made in the EBI for the [Expression Atlas](http://www.ebi.ac.uk/gxa)
 
@@ -30,13 +46,19 @@ Contribute
 
 Extend the mapping as required, then test locally through
 ```
-webpack-dev-server --port 9000
+webpack-dev-server -d
 ```
 Go to localhost:9000/html and see that the new icon appears there.
-then do
-```
-webpack
-```
-Which will regenerate the /dist/ and the bundles. Commit and PR away.
 
-It would be fairly easy to cut the React dependency out of this package if you just need the mapping - if you fork than we can share the species to icon mapping.
+It is also a good idea to verify that all tests pass
+```
+npm run test
+```
+
+Then do
+```
+npm run prepublish
+```
+Which will regenerate the `lib` and the bundles in `dist`. Commit and PR away.
+
+It would be fairly easy to cut the React dependency out of this package if you just need the mapping - if you fork then we can share the species to icon mapping.
