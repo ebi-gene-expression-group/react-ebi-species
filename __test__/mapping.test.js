@@ -1,4 +1,4 @@
-import lookupIcon, {getAllSpecies} from './mapping.js'
+import lookupIcon, {getAllSpecies} from '../src/mapping.js'
 
 test(`lookupIcon returns correct icon character and group`, () => {
   expect(lookupIcon(`homo sapiens`)).toEqual([`mammals`, `H`])
