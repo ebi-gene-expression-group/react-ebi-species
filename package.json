@@ -4,8 +4,9 @@
   "description": "React component based on the EBI species icons",
   "main": "lib/index.js",
   "scripts": {
+    "dist": "NODE_ENV=production webpack --optimize-minimize",
     "build": "babel src -d lib",
-    "prepublish": "npm run build",
+    "prepublish": "rm -rf lib && npm run build && npm run dist",
     "test": "jest"
   },
   "author": "Wojciech Bazant <wbazant@ebi.ac.uk> Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",

@@ -13,15 +13,20 @@ module.exports = {
     library: '[name]',
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].bundle.js',
-    publicPath: 'html/dist/'
+    publicPath: 'dist/'
   },
 
   plugins: [
-    new CleanWebpackPlugin(['html/dist'], {verbose: true, dry: false}),
+    new CleanWebpackPlugin(['dist'], {verbose: true, dry: false}),
     new webpack.optimize.CommonsChunkPlugin({
       name: 'dependencies',
       filename: 'vendorCommons.bundle.js',
       minChunks: Infinity     // Explicit definition-based split, see dependencies entry
+    }),
+    new webpack.DefinePlugin({
+      "process.env": {
+        NODE_ENV: process.env.NODE_ENV === 'production' ? JSON.stringify("production") : JSON.stringify("development")
+      }
     })
   ],
 
