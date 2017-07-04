@@ -1,20 +1,42 @@
 <!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <script src="dist/vendor.bundle.js"></script>
-    <script src="dist/demo.bundle.js"></script>
-    <!--link type="text/css" rel="stylesheet" href="//www.ebi.ac.uk/web_guidelines/css/compliance/develop/ebi-visual.css"!-->
-    <title>Icons for each species</title>
+<html lang="en">
+<head>
+    <title>React EBI Species demo</title>
+    <title>Expression Atlas &lt; Demo pages</title>
+
+    <link rel="stylesheet" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/libraries/foundation-6/css/foundation.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/css/ebi-global.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/fonts.css" type="text/css" media="all" />
+
+    <link rel="stylesheet" href="https://www.ebi.ac.uk/gxa/resources/css/foundation/atlas.css" type="text/css" media="all">
 </head>
+
 <body>
-    <div id="main" style="font-size:200%">
+<div class="row">
+    <div class="small-12 columns">
+        <div class="row margin-bottom-large">
+            <h3>Single species</h3>
+            <div id="target-single"></div>
+        </div>
+
+        <div class="row margin-top-large">
+            <div id="content" class="small-3 columns">
+                <h3>All species</h3>
+                <div id="target-all"></div>
+            </div>
+        </div>
     </div>
+
+
+</div>
 </body>
 
+<script src="../dist/vendorCommons.bundle.js"></script>
+<script src="../dist/demo.bundle.js"></script>
+
 <script>
-    var sc = window.exposed;
-    sc.render(document.getElementById('main'));
+    demo.renderAll('target-all')
+    demo.render({}, 'target-single')
 </script>
 
 </html>
