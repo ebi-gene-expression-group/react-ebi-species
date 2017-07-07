@@ -54,11 +54,6 @@ It is also a good idea to verify that all tests pass
 ```
 npm run test
 ```
-
-Then do
-```
-npm run prepublish
-```
-Which will regenerate the `lib` and the bundles in `dist`. Commit and PR away.
+Commit and PR away.
 
 It would be fairly easy to cut the React dependency out of this package if you just need the mapping - if you fork then we can share the species to icon mapping.
