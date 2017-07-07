@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/gxa/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species)
-
 # EBI species icons for React
+
+[![Build Status](https://travis-ci.org/gxa/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species)
 
 Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/), mapped per species so one can select the correct icon programmatically.
 
