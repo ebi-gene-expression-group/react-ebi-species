@@ -4,9 +4,9 @@
 
 Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/), mapped per species so one can select the correct icon programmatically.
 
-[Demo of all supported species](https://wbazant.github.io/react-ebi-species/html/)
+[Demo of all supported species](https://wbazant.github.io/react-ebi-species/html/).
 
-It is meant to work with lowercase scientific names as in [Ensembl reference](http://www.ensembl.org/info/about/species.html). For some of (but not all) available, see search box in [Expression Atlas](http://www.ebi.ac.uk/gxa)
+It is meant to work with lowercase scientific names as in [Ensembl reference](http://www.ensembl.org/info/about/species.html). For some of (but not all) available, see search box in [Expression Atlas](http://www.ebi.ac.uk/gxa).
 
 Pull requests to enlarge the mapping of species to icons, or with alternative names of species, are very welcome!
 
@@ -34,12 +34,12 @@ To use directly in your browser (see `html/index.hml`):
 <script src="dist/ebiSpeciesIcon.bundle.js"></script>
 
 <script>
-    ebiSpeciesIcon.render({}, 'id-of-your-DOM-element')
+    ebiSpeciesIcon.render({species: 'homo sapiens'}, 'id-of-your-DOM-element')
 </script>
 
 ```
 
-Made in the EBI for the [Expression Atlas](http://www.ebi.ac.uk/gxa)
+Made in the EBI for the [Expression Atlas](http://www.ebi.ac.uk/gxa).
 
 
 # Contribute
