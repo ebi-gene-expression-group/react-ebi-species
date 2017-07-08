@@ -16,11 +16,12 @@
       "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
     }
   },
-  "author": "Wojciech Bazant <wbazant@ebi.ac.uk> Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",
+  "author": "Wojciech Bazant <wbazant@ebi.ac.uk>",
+  "contributors": ["Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>"],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wbazant/react-ebi-species"
+    "url": "https://github.com/gxa/react-ebi-species"
   },
   "keywords": [
     "react",
