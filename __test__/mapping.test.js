@@ -12,6 +12,10 @@ test(`lookupIcon returns empty strings for non-existing species`, () => {
   expect(lookupIcon(`foo bar`)).toEqual([``, ``])
 })
 
-test(`getAllSpecies retrieves more than twenty species`, () => {
-  expect(getAllSpecies().length).toBeGreaterThan(20)
+test(`There are 65 mapped characters`, () => {
+  const mappedChars = getAllSpecies()
+    .map(lookupIcon)
+    .map((groupAndChar) => groupAndChar[1])
+
+  expect(new Set(mappedChars).size).toEqual(65)
 })

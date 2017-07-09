@@ -35,7 +35,7 @@ test(`Mammals are red, violets are blue`, () => {
   })
 })
 
-test('Plants are green', () => {
+test(`Plants are green`, () => {
   const mappedPlants = getAllSpecies().filter((species) => lookupIcon(species)[0] === `plants`)
 
   mappedPlants.forEach(plant => {
@@ -47,7 +47,7 @@ test('Plants are green', () => {
   })
 })
 
-test('Roses are red, others are blue', () => {
+test(`Roses are red, others are blue`, () => {
   const mappedOthers = getAllSpecies().filter((species) => lookupIcon(species)[0] === `other`)
 
   mappedOthers.forEach(other => {
@@ -59,7 +59,7 @@ test('Roses are red, others are blue', () => {
   })
 })
 
-test('Override colour', () => {
+test(`Override colour`, () => {
   expect(shallow(<EbiSpeciesIcon species={`homo sapiens`} colourOverride={`yellow`}/>).prop(`style`)).toHaveProperty(`color`, `yellow`)
   expect(shallow(<EbiSpeciesIcon species={`homo sapiens`} groupColours={altGroupColours} colourOverride={`yellow`}/>).prop(`style`)).toHaveProperty(`color`, `yellow`)
 })

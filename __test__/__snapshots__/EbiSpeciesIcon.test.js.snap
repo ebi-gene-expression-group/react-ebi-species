@@ -1001,6 +1001,19 @@ exports[`Species icon of mapped species plant 1`] = `
 />
 `;
 
+exports[`Species icon of mapped species plasmodium 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="@"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="plasmodium"
+/>
+`;
+
 exports[`Species icon of mapped species platypus 1`] = `
 <span
   className="react-ebi-species-icon"

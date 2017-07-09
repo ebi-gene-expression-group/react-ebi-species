@@ -67,7 +67,8 @@ const mapping = {
     "+": [`ray`],
     "'": [`snail`],
     "$": [`bee`],
-    "&": [`tick`]
+    "&": [`tick`],
+    "@": [`plasmodium`]
   }
 }
 
