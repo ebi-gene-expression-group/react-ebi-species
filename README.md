@@ -52,7 +52,7 @@ Go to localhost:9000/html and see that the new icon appears there.
 
 It is also a good idea to verify that all tests pass
 ```
-npm run test
+npm run coverage
 ```
 Commit and PR away.
 
