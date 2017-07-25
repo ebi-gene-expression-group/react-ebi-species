@@ -1,6 +1,6 @@
 {
   "name": "react-ebi-species",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "React component based on the EBI species icons",
   "main": "lib/index.js",
   "scripts": {
