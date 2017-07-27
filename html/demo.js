@@ -17,8 +17,10 @@ const renderAll = (target) => {
     <div>
       <table>
         <thead>
-          <th>Name</th>
-          <th>Icon</th>
+          <tr>
+            <th>Name</th>
+            <th>Icon</th>
+        </tr>
         </thead>
         <tbody>
           {allIcons}

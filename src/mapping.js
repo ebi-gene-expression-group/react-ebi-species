@@ -1,7 +1,7 @@
 const mapping = {
   mammals: {
-    "A": [`cat`, `felis catus`],
     "a": [`alpaca`, `vicugna pacos`],
+    "A": [`cat`, `felis catus`],
     "C": [`cow`, `bos taurus`],
     "d": [`dog`, `canis lupus`, `canis lupus familiaris`],
     "D": [`dolphin`],
@@ -67,7 +67,8 @@ const mapping = {
     "+": [`ray`],
     "'": [`snail`],
     "$": [`bee`],
-    "&": [`tick`]
+    "&": [`tick`],
+    "@": [`plasmodium`]
   }
 }
 

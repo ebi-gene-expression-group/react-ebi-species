@@ -10,7 +10,7 @@ const EbiSpeciesIcon = (props) => {
     <span
       className={`react-ebi-species-icon`}
       data-icon={groupAndIcon[1]}
-      style={{color: props.colourOverride || props.colourPerGroup[groupAndIcon[0]]}}
+      style={{color: props.colourOverride || props.groupColours[groupAndIcon[0]]}}
       title={props.species}/>
   )
 }
@@ -18,14 +18,16 @@ const EbiSpeciesIcon = (props) => {
 EbiSpeciesIcon.propTypes = {
   species: PropTypes.string.isRequired,
   colourOverride: PropTypes.string,
-  colourPerGroup: PropTypes.objectOf(
-    PropTypes.string
-  ).isRequired
+  groupColours: PropTypes.shape({
+    mammals: PropTypes.string.isRequired,
+    plants: PropTypes.string.isRequired,
+    other: PropTypes.string.isRequired
+  }).isRequired
 }
 
 EbiSpeciesIcon.defaultProps = {
   species: `oryctolagus cuniculus`, //rabbit is objectively the best species
-  colourPerGroup: {
+  groupColours: {
     mammals: `red`,
     plants: `green`,
     other: `blue`

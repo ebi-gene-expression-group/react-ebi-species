@@ -1,0 +1,1483 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Species icon of mapped species alpaca 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="a"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="alpaca"
+/>
+`;
+
+exports[`Species icon of mapped species amoeba 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="0"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="amoeba"
+/>
+`;
+
+exports[`Species icon of mapped species anolis carolinensis 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="7"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="anolis carolinensis"
+/>
+`;
+
+exports[`Species icon of mapped species arabidopsis lyrata 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="B"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="arabidopsis lyrata"
+/>
+`;
+
+exports[`Species icon of mapped species arabidopsis thaliana 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="B"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="arabidopsis thaliana"
+/>
+`;
+
+exports[`Species icon of mapped species armadillo 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="l"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="armadillo"
+/>
+`;
+
+exports[`Species icon of mapped species aspergillus fumigatus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="£"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="aspergillus fumigatus"
+/>
+`;
+
+exports[`Species icon of mapped species barley 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="5"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="barley"
+/>
+`;
+
+exports[`Species icon of mapped species bat 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="("
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="bat"
+/>
+`;
+
+exports[`Species icon of mapped species bee 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="$"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="bee"
+/>
+`;
+
+exports[`Species icon of mapped species bos taurus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="C"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="bos taurus"
+/>
+`;
+
+exports[`Species icon of mapped species brachypodium distachyon 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="%"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="brachypodium distachyon"
+/>
+`;
+
+exports[`Species icon of mapped species brassica oleracea 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="B"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="brassica oleracea"
+/>
+`;
+
+exports[`Species icon of mapped species brassica rapa 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="B"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="brassica rapa"
+/>
+`;
+
+exports[`Species icon of mapped species bug 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="b"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="bug"
+/>
+`;
+
+exports[`Species icon of mapped species caenorhabditis elegans 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="W"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="caenorhabditis elegans"
+/>
+`;
+
+exports[`Species icon of mapped species canis lupus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="d"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="canis lupus"
+/>
+`;
+
+exports[`Species icon of mapped species canis lupus familiaris 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="d"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="canis lupus familiaris"
+/>
+`;
+
+exports[`Species icon of mapped species cat 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="A"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="cat"
+/>
+`;
+
+exports[`Species icon of mapped species cavia porcellus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="g"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="cavia porcellus"
+/>
+`;
+
+exports[`Species icon of mapped species chicken 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="k"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="chicken"
+/>
+`;
+
+exports[`Species icon of mapped species chimpanzee 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="i"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="chimpanzee"
+/>
+`;
+
+exports[`Species icon of mapped species corn 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="c"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="corn"
+/>
+`;
+
+exports[`Species icon of mapped species cow 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="C"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="cow"
+/>
+`;
+
+exports[`Species icon of mapped species danio rerio 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="Z"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="danio rerio"
+/>
+`;
+
+exports[`Species icon of mapped species diatom 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="2"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="diatom"
+/>
+`;
+
+exports[`Species icon of mapped species dog 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="d"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="dog"
+/>
+`;
+
+exports[`Species icon of mapped species dolphin 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="D"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="dolphin"
+/>
+`;
+
+exports[`Species icon of mapped species drosophila melanogaster 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="F"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="drosophila melanogaster"
+/>
+`;
+
+exports[`Species icon of mapped species elephant 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="e"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="elephant"
+/>
+`;
+
+exports[`Species icon of mapped species elephas maximus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="e"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="elephas maximus"
+/>
+`;
+
+exports[`Species icon of mapped species equus caballus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="h"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="equus caballus"
+/>
+`;
+
+exports[`Species icon of mapped species erinaceus europaeus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="o"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="erinaceus europaeus"
+/>
+`;
+
+exports[`Species icon of mapped species escherichia coli 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="L"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="escherichia coli"
+/>
+`;
+
+exports[`Species icon of mapped species felis catus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="A"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="felis catus"
+/>
+`;
+
+exports[`Species icon of mapped species ferret 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="!"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="ferret"
+/>
+`;
+
+exports[`Species icon of mapped species finch 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="n"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="finch"
+/>
+`;
+
+exports[`Species icon of mapped species fly 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="F"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="fly"
+/>
+`;
+
+exports[`Species icon of mapped species frog 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="f"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="frog"
+/>
+`;
+
+exports[`Species icon of mapped species fungus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="u"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="fungus"
+/>
+`;
+
+exports[`Species icon of mapped species gallus gallus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="k"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="gallus gallus"
+/>
+`;
+
+exports[`Species icon of mapped species glycine max 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="^"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="glycine max"
+/>
+`;
+
+exports[`Species icon of mapped species goat 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="m"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="goat"
+/>
+`;
+
+exports[`Species icon of mapped species gorilla 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="G"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="gorilla"
+/>
+`;
+
+exports[`Species icon of mapped species gorilla gorilla 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="G"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="gorilla gorilla"
+/>
+`;
+
+exports[`Species icon of mapped species grapes 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="O"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="grapes"
+/>
+`;
+
+exports[`Species icon of mapped species guinea pig 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="g"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="guinea pig"
+/>
+`;
+
+exports[`Species icon of mapped species hedgehog 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="o"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="hedgehog"
+/>
+`;
+
+exports[`Species icon of mapped species homo sapiens 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="H"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="homo sapiens"
+/>
+`;
+
+exports[`Species icon of mapped species hordeum vulgare 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="5"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="hordeum vulgare"
+/>
+`;
+
+exports[`Species icon of mapped species hordeum vulgare subsp. vulgare 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="5"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="hordeum vulgare subsp. vulgare"
+/>
+`;
+
+exports[`Species icon of mapped species horse 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="h"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="horse"
+/>
+`;
+
+exports[`Species icon of mapped species human 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="H"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="human"
+/>
+`;
+
+exports[`Species icon of mapped species kangaroo rat 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="3"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="kangaroo rat"
+/>
+`;
+
+exports[`Species icon of mapped species louse 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="4"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="louse"
+/>
+`;
+
+exports[`Species icon of mapped species loxodonta africana 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="e"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="loxodonta africana"
+/>
+`;
+
+exports[`Species icon of mapped species loxodonta cyclotis 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="e"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="loxodonta cyclotis"
+/>
+`;
+
+exports[`Species icon of mapped species macaca mulatta 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="r"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="macaca mulatta"
+/>
+`;
+
+exports[`Species icon of mapped species monkey 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="r"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="monkey"
+/>
+`;
+
+exports[`Species icon of mapped species monodelphis domestica 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="9"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="monodelphis domestica"
+/>
+`;
+
+exports[`Species icon of mapped species mosquito 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="1"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="mosquito"
+/>
+`;
+
+exports[`Species icon of mapped species mouse 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="M"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="mouse"
+/>
+`;
+
+exports[`Species icon of mapped species mouse lemur 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="N"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="mouse lemur"
+/>
+`;
+
+exports[`Species icon of mapped species mus musculus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="M"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="mus musculus"
+/>
+`;
+
+exports[`Species icon of mapped species mustela putorius furo 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="!"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="mustela putorius furo"
+/>
+`;
+
+exports[`Species icon of mapped species orangutan 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="*"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="orangutan"
+/>
+`;
+
+exports[`Species icon of mapped species ornithorhynchus anatinus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="U"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="ornithorhynchus anatinus"
+/>
+`;
+
+exports[`Species icon of mapped species oryctolagus cuniculus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="t"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="oryctolagus cuniculus"
+/>
+`;
+
+exports[`Species icon of mapped species oryza sativa 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="6"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="oryza sativa"
+/>
+`;
+
+exports[`Species icon of mapped species oryza sativa japonica group 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="6"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="oryza sativa japonica group"
+/>
+`;
+
+exports[`Species icon of mapped species ovis aries 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="x"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="ovis aries"
+/>
+`;
+
+exports[`Species icon of mapped species pan paniscus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="i"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="pan paniscus"
+/>
+`;
+
+exports[`Species icon of mapped species pan troglodytes 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="i"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="pan troglodytes"
+/>
+`;
+
+exports[`Species icon of mapped species papio anubis 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="8"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="papio anubis"
+/>
+`;
+
+exports[`Species icon of mapped species physcomitrella patens 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="P"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="physcomitrella patens"
+/>
+`;
+
+exports[`Species icon of mapped species pig 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="p"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="pig"
+/>
+`;
+
+exports[`Species icon of mapped species plant 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="P"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="plant"
+/>
+`;
+
+exports[`Species icon of mapped species plasmodium 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="@"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="plasmodium"
+/>
+`;
+
+exports[`Species icon of mapped species platypus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="U"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="platypus"
+/>
+`;
+
+exports[`Species icon of mapped species pongo abelii 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="*"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="pongo abelii"
+/>
+`;
+
+exports[`Species icon of mapped species pongo pygmaeus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="*"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="pongo pygmaeus"
+/>
+`;
+
+exports[`Species icon of mapped species pufferfish 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="E"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="pufferfish"
+/>
+`;
+
+exports[`Species icon of mapped species pyrrhula pyrrhula 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="n"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="pyrrhula pyrrhula"
+/>
+`;
+
+exports[`Species icon of mapped species rabbit 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="t"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="rabbit"
+/>
+`;
+
+exports[`Species icon of mapped species rat 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="R"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="rat"
+/>
+`;
+
+exports[`Species icon of mapped species rattus norvegicus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="R"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="rattus norvegicus"
+/>
+`;
+
+exports[`Species icon of mapped species ray 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="+"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="ray"
+/>
+`;
+
+exports[`Species icon of mapped species saccharomyces cerevisiae 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="saccharomyces cerevisiae"
+/>
+`;
+
+exports[`Species icon of mapped species schistosoma mansoni 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="W"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="schistosoma mansoni"
+/>
+`;
+
+exports[`Species icon of mapped species schizosaccharomyces pombe 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="schizosaccharomyces pombe"
+/>
+`;
+
+exports[`Species icon of mapped species scorpion 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="s"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="scorpion"
+/>
+`;
+
+exports[`Species icon of mapped species sheep 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="x"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="sheep"
+/>
+`;
+
+exports[`Species icon of mapped species shrew 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="Q"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="shrew"
+/>
+`;
+
+exports[`Species icon of mapped species snail 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="'"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="snail"
+/>
+`;
+
+exports[`Species icon of mapped species solanum lycopersicum 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon=")"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="solanum lycopersicum"
+/>
+`;
+
+exports[`Species icon of mapped species solanum tuberosum 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon=")"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="solanum tuberosum"
+/>
+`;
+
+exports[`Species icon of mapped species sorghum bicolor 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="P"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="sorghum bicolor"
+/>
+`;
+
+exports[`Species icon of mapped species spider 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="S"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="spider"
+/>
+`;
+
+exports[`Species icon of mapped species squirrel 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="I"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="squirrel"
+/>
+`;
+
+exports[`Species icon of mapped species sus scrofa 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="p"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="sus scrofa"
+/>
+`;
+
+exports[`Species icon of mapped species tetraodon nigroviridis 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="E"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="tetraodon nigroviridis"
+/>
+`;
+
+exports[`Species icon of mapped species tick 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="&"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="tick"
+/>
+`;
+
+exports[`Species icon of mapped species tomatoes 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon=")"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="tomatoes"
+/>
+`;
+
+exports[`Species icon of mapped species triticum aestivum 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="P"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="triticum aestivum"
+/>
+`;
+
+exports[`Species icon of mapped species vicugna pacos 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="a"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="vicugna pacos"
+/>
+`;
+
+exports[`Species icon of mapped species virus 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="v"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="virus"
+/>
+`;
+
+exports[`Species icon of mapped species vitis vinifera 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="O"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="vitis vinifera"
+/>
+`;
+
+exports[`Species icon of mapped species wallaby 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="w"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+  title="wallaby"
+/>
+`;
+
+exports[`Species icon of mapped species xenopus (silurana) tropicalis 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="f"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="xenopus (silurana) tropicalis"
+/>
+`;
+
+exports[`Species icon of mapped species xenopus tropicalis 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="f"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="xenopus tropicalis"
+/>
+`;
+
+exports[`Species icon of mapped species yeast 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="yeast"
+/>
+`;
+
+exports[`Species icon of mapped species zea mays 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="c"
+  style={
+    Object {
+      "color": "green",
+    }
+  }
+  title="zea mays"
+/>
+`;
+
+exports[`Species icon of mapped species zebrafish 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon="Z"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+  title="zebrafish"
+/>
+`;
+
+exports[`Species icon of unknown species 1`] = `
+<span
+  className="react-ebi-species-icon"
+  data-icon=""
+  style={
+    Object {
+      "color": undefined,
+    }
+  }
+  title="foous baris"
+/>
+`;

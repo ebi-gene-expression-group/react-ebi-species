@@ -1,19 +1,29 @@
 {
   "name": "react-ebi-species",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "React component based on the EBI species icons",
   "main": "lib/index.js",
   "scripts": {
     "dist": "NODE_ENV=production webpack --optimize-minimize",
     "build": "babel src -d lib --copy-files",
     "prepublish": "rm -rf lib && npm run build && npm run dist",
-    "test": "jest"
+    "coverage": "jest --coverage",
+    "test": "npm run coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
-  "author": "Wojciech Bazant <wbazant@ebi.ac.uk> Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
+    }
+  },
+  "author": "Wojciech Bazant <wbazant@ebi.ac.uk>",
+  "contributors": [
+    "Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wbazant/react-ebi-species"
+    "url": "https://github.com/gxa/react-ebi-species"
   },
   "keywords": [
     "react",
@@ -38,11 +48,13 @@
     "babel-preset-env": "^1.5.2",
     "babel-preset-react": "^6.24.1",
     "clean-webpack-plugin": "^0.1.16",
+    "coveralls": "^2.13.1",
     "css-loader": "^0.28.4",
+    "enzyme": "^2.9.1",
     "jest": "^20.0.4",
-    "react-hot-loader": "^3.0.0-beta.7",
+    "react-test-renderer": "^15.6.1",
     "style-loader": "^0.18.2",
-    "webpack": "^2.6.0",
+    "webpack": "^3.1.0",
     "webpack-dev-server": "^2.5.0"
   }
 }
