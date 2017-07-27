@@ -1,4 +1,4 @@
-# IntelliJ IDEA project files
+# IntelliJ IDEA projectf iles
 .idea/
 
 # https://github.com/github/gitignore/blob/master/Node.gitignore
@@ -62,3 +62,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Build files
+lib/*
+dist/*
