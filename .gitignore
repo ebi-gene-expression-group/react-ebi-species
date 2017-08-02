@@ -1,4 +1,4 @@
-# IntelliJ IDEA projectf iles
+# IntelliJ IDEA project files
 .idea/
 
 # https://github.com/github/gitignore/blob/master/Node.gitignore
@@ -63,5 +63,5 @@ typings/
 .env
 
 # Build files
-lib/*
 dist/*
+lib/*
