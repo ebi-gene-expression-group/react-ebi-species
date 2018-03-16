@@ -4,7 +4,7 @@
 
 Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/), mapped per species so one can select the correct icon programmatically.
 
-[Demo of all supported species](https://wbazant.github.io/react-ebi-species/html/).
+[Demo of all supported species](https://gxa.github.io/react-ebi-species/html/).
 
 It is meant to work with lowercase scientific names as in [Ensembl reference](http://www.ensembl.org/info/about/species.html). For some of (but not all) available, see search box in [Expression Atlas](http://www.ebi.ac.uk/gxa).
 
