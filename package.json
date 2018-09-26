@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gxa/react-ebi-species"
+    "url": "https://github.com/ebi-gene-expression-group/react-ebi-species"
   },
   "keywords": [
     "react",
