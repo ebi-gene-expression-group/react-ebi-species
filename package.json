@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "dist": "NODE_ENV=production webpack --optimize-minimize",
-    "prepublishOnly": "rm -rf lib && babel src -d lib --copy-files",
+    "prepack": "rm -rf lib && babel src -d lib --copy-files",
     "test": "jest --coverage",
     "posttest": "./node_modules/coveralls/bin/coveralls.js < ./coverage/lcov.info  || echo 'Coveralls upload failed, LOL ignoring'"
   },
