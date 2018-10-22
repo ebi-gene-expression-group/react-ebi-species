@@ -1,5 +1,5 @@
 const mapping = {
-  mammals: {
+  warmBlooded: {
     "a": [`alpaca`, `vicugna pacos`],
     "A": [`cat`, `felis catus`],
     "C": [`cow`, `bos taurus`],
@@ -12,6 +12,7 @@ const mapping = {
     "H": [`human`, `homo sapiens`],
     "i": [`chimpanzee`, `pan paniscus`, `pan troglodytes`],
     "I": [`squirrel`],
+    "k": [`chicken`, `gallus gallus`],
     "l": [`armadillo`],
     "m": [`goat`],
     "M": [`mouse`, `mus musculus`],
@@ -48,7 +49,6 @@ const mapping = {
     "E": [`pufferfish`, `tetraodon nigroviridis`],
     "f": [`frog`, `xenopus (silurana) tropicalis`, `xenopus tropicalis`],
     "F": [`fly`, `drosophila melanogaster`],
-    "k": [`chicken`, `gallus gallus`],
     "L": [`escherichia coli`],
     "n": [`finch`, `pyrrhula pyrrhula`],
     "s": [`scorpion`],

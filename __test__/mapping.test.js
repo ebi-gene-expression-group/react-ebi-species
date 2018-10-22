@@ -1,7 +1,7 @@
 import lookupIcon, {getAllSpecies} from '../src/mapping.js'
 
 test(`lookupIcon returns correct icon character and group`, () => {
-  expect(lookupIcon(`homo sapiens`)).toEqual([`mammals`, `H`])
+  expect(lookupIcon(`homo sapiens`)).toEqual([`warmBlooded`, `H`])
 })
 
 test(`lookupIcon is case insensitive`, () => {

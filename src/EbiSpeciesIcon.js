@@ -29,7 +29,7 @@ EbiSpeciesIcon.propTypes = {
   species: PropTypes.string.isRequired,
   colourOverride: PropTypes.string,
   groupColours: PropTypes.shape({
-    mammals: PropTypes.string.isRequired,
+    warmBlooded: PropTypes.string.isRequired,
     plants: PropTypes.string.isRequired,
     other: PropTypes.string.isRequired
   }).isRequired
@@ -38,7 +38,7 @@ EbiSpeciesIcon.propTypes = {
 EbiSpeciesIcon.defaultProps = {
   species: `oryctolagus cuniculus`, //rabbit is objectively the best species
   groupColours: {
-    mammals: `red`,
+    warmBlooded: `red`,
     plants: `green`,
     other: `blue`
   }
