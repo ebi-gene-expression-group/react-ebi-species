@@ -1,9 +1,13 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
+import Enzyme from 'enzyme'
 import {shallow} from 'enzyme'
+import Adapter from 'enzyme-adapter-react-16'
 
 import lookupIcon, {getAllSpecies} from '../src/mapping.js'
 import EbiSpeciesIcon from '../src/EbiSpeciesIcon.js'
+
+Enzyme.configure({ adapter: new Adapter() })
 
 const altGroupColours = {
   mammals: `brown`,
