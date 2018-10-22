@@ -17,9 +17,9 @@
       "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
     }
   },
-  "author": "Wojciech Bazant <wbazant@ebi.ac.uk>",
+  "author": "Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",
   "contributors": [
-    "Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>"
+    "Wojciech Bazant <wbazant@ebi.ac.uk>"
   ],
   "license": "MIT",
   "repository": {
