@@ -4,9 +4,9 @@
   "description": "React component based on the EBI species icons",
   "main": "lib/index.js",
   "scripts": {
-    "dist": "NODE_ENV=production webpack --optimize-minimize",
     "prepack": "rm -rf lib && babel src -d lib --copy-files",
-    "test": "jest --coverage",
+    "testOnly": "jest --verbose --coverage",
+    "test": "npm run testOnly",
     "posttest": "./node_modules/coveralls/bin/coveralls.js < ./coverage/lcov.info  || echo 'Coveralls upload failed'",
     "postversion": "npm publish",
     "postpublish": "git push && git push --tags"
