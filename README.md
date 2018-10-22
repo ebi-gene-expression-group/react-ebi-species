@@ -18,7 +18,7 @@ To use as a React component:
 ```
 import EbiSpeciesIcon from 'react-ebi-species'
 ...
-<EbiSpeciesIcon species="homo sapiens"/>
+<EbiSpeciesIcon species={`homo sapiens`}/>
 ```
 
 To use as a renderer and attach the icons to DOM elements:
@@ -39,20 +39,20 @@ To use directly in your browser (see `html/index.hml`):
 
 ```
 
-Made in the EBI for the [Expression Atlas](http://www.ebi.ac.uk/gxa).
+Made in the EBI for [Expression Atlas](http://www.ebi.ac.uk/gxa).
 
 
 # Contribute
 
 Extend the mapping as required, then test locally through
 ```
-webpack-dev-server -d
+npx webpack-dev-server --mode=development
 ```
 Go to localhost:9000/html and see that the new icon appears there.
 
 It is also a good idea to verify that all tests pass
 ```
-npm run coverage
+npm run testOnly
 ```
 Commit and PR away.
 
