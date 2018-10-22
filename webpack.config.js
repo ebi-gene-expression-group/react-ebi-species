@@ -1,50 +1,71 @@
-var webpack = require('webpack')
-var path = require('path')
-var CleanWebpackPlugin = require('clean-webpack-plugin')
+const path = require(`path`)
+const CleanWebpackPlugin = require(`clean-webpack-plugin`)
+
+const commonPublicPath = `/dist/`
 
 module.exports = {
   entry: {
-    ebiSpeciesIcon: './src/index.js',
-    demo: './html/demo.js',
-    dependencies: ['react', 'react-dom']
-  },
-
-  output: {
-    library: '[name]',
-    path: path.resolve(__dirname, 'dist'),
-    filename: '[name].bundle.js',
-    publicPath: 'dist/'
+    reactEbiSpeciesDemo: `./html/demo.js`
+    // dependencies: [`prop-types`, `react`, `react-dom`, `urijs`]
   },
 
   plugins: [
-    new CleanWebpackPlugin(['dist'], {verbose: true, dry: false}),
-    new webpack.optimize.CommonsChunkPlugin({
-      name: 'dependencies',
-      filename: 'vendorCommons.bundle.js',
-      minChunks: Infinity     // Explicit definition-based split, see dependencies entry
-    }),
-    new webpack.DefinePlugin({
-      "process.env": {
-        NODE_ENV: process.env.NODE_ENV === 'production' ? JSON.stringify("production") : JSON.stringify("development")
-      }
-    })
+    new CleanWebpackPlugin([`dist`])
   ],
+
+  output: {
+    library: `[name]`,
+    filename: `[name].bundle.js`,
+    publicPath: commonPublicPath
+  },
+
+  optimization: {
+    splitChunks: {
+      chunks: `all`,
+      minSize: 1,
+      cacheGroups: {
+        reactEbiSpecies: {
+          test: /[\\/]src[\\/]/,
+          name: `reactEbiSpecies`,
+          priority: -20
+        },
+        vendors: {
+          test: /[\\/]node_modules[\\/]/,
+          name: `vendors`,
+          priority: -10
+        }
+      }
+    }
+  },
 
   module: {
     rules: [
       {
-        test: /\.css$/,
-        use: ['style-loader', 'css-loader']
+        test: /\.js$/i,
+        exclude: /node_modules\//,
+        use: `babel-loader`
       },
       {
-        test: /\.js$/,
-        exclude: /node_modules\//,
-        use: ['babel-loader']
+          test: /\.svg$/i,
+          use: [
+              {
+                  loader: `file-loader`,
+                  options: {
+                      query: {
+                          name: `[hash].[ext]`,
+                          hash: `sha512`,
+                          digest: `hex`
+                      }
+                  }
+              }
+          ]
       }
     ]
   },
 
   devServer: {
-    port: 9000
+    port: 9000,
+    contentBase: path.resolve(__dirname, `html`),
+    publicPath: commonPublicPath
   }
 }
