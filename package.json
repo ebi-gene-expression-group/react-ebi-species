@@ -40,7 +40,8 @@
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",

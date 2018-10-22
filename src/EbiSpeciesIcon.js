@@ -1,14 +1,24 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import './ebi-visual-species.css'
+import styled from 'styled-components'
 
 import lookupIcon from './mapping.js'
+
+const SpeciesIcon = styled.span`
+  text-decoration: none;
+  font-style: normal
+
+  ::before {
+    font-family: 'EBI-Species';
+    color: inherit;
+    content: attr(data-icon);
+  }
+`
 
 const EbiSpeciesIcon = (props) => {
   const groupAndIcon = lookupIcon(props.species)
   return (
-    <span
-      className={`react-ebi-species-icon`}
+    <SpeciesIcon
       data-icon={groupAndIcon[1]}
       style={{color: props.colourOverride || props.groupColours[groupAndIcon[0]]}}
       title={props.species}/>
