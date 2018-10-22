@@ -2,7 +2,7 @@
 
 exports[`Species icon of mapped species alpaca 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="a"
   style={
     Object {
@@ -15,7 +15,7 @@ exports[`Species icon of mapped species alpaca 1`] = `
 
 exports[`Species icon of mapped species amoeba 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="0"
   style={
     Object {
@@ -28,7 +28,7 @@ exports[`Species icon of mapped species amoeba 1`] = `
 
 exports[`Species icon of mapped species anolis carolinensis 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="7"
   style={
     Object {
@@ -41,7 +41,7 @@ exports[`Species icon of mapped species anolis carolinensis 1`] = `
 
 exports[`Species icon of mapped species arabidopsis lyrata 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="B"
   style={
     Object {
@@ -54,7 +54,7 @@ exports[`Species icon of mapped species arabidopsis lyrata 1`] = `
 
 exports[`Species icon of mapped species arabidopsis thaliana 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="B"
   style={
     Object {
@@ -67,7 +67,7 @@ exports[`Species icon of mapped species arabidopsis thaliana 1`] = `
 
 exports[`Species icon of mapped species armadillo 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="l"
   style={
     Object {
@@ -80,7 +80,7 @@ exports[`Species icon of mapped species armadillo 1`] = `
 
 exports[`Species icon of mapped species aspergillus fumigatus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="£"
   style={
     Object {
@@ -93,7 +93,7 @@ exports[`Species icon of mapped species aspergillus fumigatus 1`] = `
 
 exports[`Species icon of mapped species barley 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="5"
   style={
     Object {
@@ -106,7 +106,7 @@ exports[`Species icon of mapped species barley 1`] = `
 
 exports[`Species icon of mapped species bat 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="("
   style={
     Object {
@@ -119,7 +119,7 @@ exports[`Species icon of mapped species bat 1`] = `
 
 exports[`Species icon of mapped species bee 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="$"
   style={
     Object {
@@ -132,7 +132,7 @@ exports[`Species icon of mapped species bee 1`] = `
 
 exports[`Species icon of mapped species bos taurus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="C"
   style={
     Object {
@@ -145,7 +145,7 @@ exports[`Species icon of mapped species bos taurus 1`] = `
 
 exports[`Species icon of mapped species brachypodium distachyon 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="%"
   style={
     Object {
@@ -158,7 +158,7 @@ exports[`Species icon of mapped species brachypodium distachyon 1`] = `
 
 exports[`Species icon of mapped species brassica oleracea 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="B"
   style={
     Object {
@@ -171,7 +171,7 @@ exports[`Species icon of mapped species brassica oleracea 1`] = `
 
 exports[`Species icon of mapped species brassica rapa 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="B"
   style={
     Object {
@@ -184,7 +184,7 @@ exports[`Species icon of mapped species brassica rapa 1`] = `
 
 exports[`Species icon of mapped species bug 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="b"
   style={
     Object {
@@ -197,7 +197,7 @@ exports[`Species icon of mapped species bug 1`] = `
 
 exports[`Species icon of mapped species caenorhabditis elegans 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="W"
   style={
     Object {
@@ -210,7 +210,7 @@ exports[`Species icon of mapped species caenorhabditis elegans 1`] = `
 
 exports[`Species icon of mapped species canis lupus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="d"
   style={
     Object {
@@ -223,7 +223,7 @@ exports[`Species icon of mapped species canis lupus 1`] = `
 
 exports[`Species icon of mapped species canis lupus familiaris 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="d"
   style={
     Object {
@@ -236,7 +236,7 @@ exports[`Species icon of mapped species canis lupus familiaris 1`] = `
 
 exports[`Species icon of mapped species cat 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="A"
   style={
     Object {
@@ -249,7 +249,7 @@ exports[`Species icon of mapped species cat 1`] = `
 
 exports[`Species icon of mapped species cavia porcellus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="g"
   style={
     Object {
@@ -262,11 +262,11 @@ exports[`Species icon of mapped species cavia porcellus 1`] = `
 
 exports[`Species icon of mapped species chicken 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="k"
   style={
     Object {
-      "color": "blue",
+      "color": "red",
     }
   }
   title="chicken"
@@ -275,7 +275,7 @@ exports[`Species icon of mapped species chicken 1`] = `
 
 exports[`Species icon of mapped species chimpanzee 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="i"
   style={
     Object {
@@ -288,7 +288,7 @@ exports[`Species icon of mapped species chimpanzee 1`] = `
 
 exports[`Species icon of mapped species corn 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="c"
   style={
     Object {
@@ -301,7 +301,7 @@ exports[`Species icon of mapped species corn 1`] = `
 
 exports[`Species icon of mapped species cow 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="C"
   style={
     Object {
@@ -314,7 +314,7 @@ exports[`Species icon of mapped species cow 1`] = `
 
 exports[`Species icon of mapped species danio rerio 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="Z"
   style={
     Object {
@@ -327,7 +327,7 @@ exports[`Species icon of mapped species danio rerio 1`] = `
 
 exports[`Species icon of mapped species diatom 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="2"
   style={
     Object {
@@ -340,7 +340,7 @@ exports[`Species icon of mapped species diatom 1`] = `
 
 exports[`Species icon of mapped species dog 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="d"
   style={
     Object {
@@ -353,7 +353,7 @@ exports[`Species icon of mapped species dog 1`] = `
 
 exports[`Species icon of mapped species dolphin 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="D"
   style={
     Object {
@@ -366,7 +366,7 @@ exports[`Species icon of mapped species dolphin 1`] = `
 
 exports[`Species icon of mapped species drosophila melanogaster 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="F"
   style={
     Object {
@@ -379,7 +379,7 @@ exports[`Species icon of mapped species drosophila melanogaster 1`] = `
 
 exports[`Species icon of mapped species elephant 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="e"
   style={
     Object {
@@ -392,7 +392,7 @@ exports[`Species icon of mapped species elephant 1`] = `
 
 exports[`Species icon of mapped species elephas maximus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="e"
   style={
     Object {
@@ -405,7 +405,7 @@ exports[`Species icon of mapped species elephas maximus 1`] = `
 
 exports[`Species icon of mapped species equus caballus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="h"
   style={
     Object {
@@ -418,7 +418,7 @@ exports[`Species icon of mapped species equus caballus 1`] = `
 
 exports[`Species icon of mapped species erinaceus europaeus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="o"
   style={
     Object {
@@ -431,7 +431,7 @@ exports[`Species icon of mapped species erinaceus europaeus 1`] = `
 
 exports[`Species icon of mapped species escherichia coli 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="L"
   style={
     Object {
@@ -444,7 +444,7 @@ exports[`Species icon of mapped species escherichia coli 1`] = `
 
 exports[`Species icon of mapped species felis catus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="A"
   style={
     Object {
@@ -457,7 +457,7 @@ exports[`Species icon of mapped species felis catus 1`] = `
 
 exports[`Species icon of mapped species ferret 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="!"
   style={
     Object {
@@ -470,7 +470,7 @@ exports[`Species icon of mapped species ferret 1`] = `
 
 exports[`Species icon of mapped species finch 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="n"
   style={
     Object {
@@ -483,7 +483,7 @@ exports[`Species icon of mapped species finch 1`] = `
 
 exports[`Species icon of mapped species fly 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="F"
   style={
     Object {
@@ -496,7 +496,7 @@ exports[`Species icon of mapped species fly 1`] = `
 
 exports[`Species icon of mapped species frog 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="f"
   style={
     Object {
@@ -509,7 +509,7 @@ exports[`Species icon of mapped species frog 1`] = `
 
 exports[`Species icon of mapped species fungus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="u"
   style={
     Object {
@@ -522,11 +522,11 @@ exports[`Species icon of mapped species fungus 1`] = `
 
 exports[`Species icon of mapped species gallus gallus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="k"
   style={
     Object {
-      "color": "blue",
+      "color": "red",
     }
   }
   title="gallus gallus"
@@ -535,7 +535,7 @@ exports[`Species icon of mapped species gallus gallus 1`] = `
 
 exports[`Species icon of mapped species glycine max 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="^"
   style={
     Object {
@@ -548,7 +548,7 @@ exports[`Species icon of mapped species glycine max 1`] = `
 
 exports[`Species icon of mapped species goat 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="m"
   style={
     Object {
@@ -561,7 +561,7 @@ exports[`Species icon of mapped species goat 1`] = `
 
 exports[`Species icon of mapped species gorilla 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="G"
   style={
     Object {
@@ -574,7 +574,7 @@ exports[`Species icon of mapped species gorilla 1`] = `
 
 exports[`Species icon of mapped species gorilla gorilla 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="G"
   style={
     Object {
@@ -587,7 +587,7 @@ exports[`Species icon of mapped species gorilla gorilla 1`] = `
 
 exports[`Species icon of mapped species grapes 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="O"
   style={
     Object {
@@ -600,7 +600,7 @@ exports[`Species icon of mapped species grapes 1`] = `
 
 exports[`Species icon of mapped species guinea pig 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="g"
   style={
     Object {
@@ -613,7 +613,7 @@ exports[`Species icon of mapped species guinea pig 1`] = `
 
 exports[`Species icon of mapped species hedgehog 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="o"
   style={
     Object {
@@ -626,7 +626,7 @@ exports[`Species icon of mapped species hedgehog 1`] = `
 
 exports[`Species icon of mapped species homo sapiens 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="H"
   style={
     Object {
@@ -639,7 +639,7 @@ exports[`Species icon of mapped species homo sapiens 1`] = `
 
 exports[`Species icon of mapped species hordeum vulgare 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="5"
   style={
     Object {
@@ -652,7 +652,7 @@ exports[`Species icon of mapped species hordeum vulgare 1`] = `
 
 exports[`Species icon of mapped species hordeum vulgare subsp. vulgare 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="5"
   style={
     Object {
@@ -665,7 +665,7 @@ exports[`Species icon of mapped species hordeum vulgare subsp. vulgare 1`] = `
 
 exports[`Species icon of mapped species horse 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="h"
   style={
     Object {
@@ -678,7 +678,7 @@ exports[`Species icon of mapped species horse 1`] = `
 
 exports[`Species icon of mapped species human 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="H"
   style={
     Object {
@@ -691,7 +691,7 @@ exports[`Species icon of mapped species human 1`] = `
 
 exports[`Species icon of mapped species kangaroo rat 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="3"
   style={
     Object {
@@ -704,7 +704,7 @@ exports[`Species icon of mapped species kangaroo rat 1`] = `
 
 exports[`Species icon of mapped species louse 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="4"
   style={
     Object {
@@ -717,7 +717,7 @@ exports[`Species icon of mapped species louse 1`] = `
 
 exports[`Species icon of mapped species loxodonta africana 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="e"
   style={
     Object {
@@ -730,7 +730,7 @@ exports[`Species icon of mapped species loxodonta africana 1`] = `
 
 exports[`Species icon of mapped species loxodonta cyclotis 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="e"
   style={
     Object {
@@ -743,7 +743,7 @@ exports[`Species icon of mapped species loxodonta cyclotis 1`] = `
 
 exports[`Species icon of mapped species macaca mulatta 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="r"
   style={
     Object {
@@ -756,7 +756,7 @@ exports[`Species icon of mapped species macaca mulatta 1`] = `
 
 exports[`Species icon of mapped species monkey 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="r"
   style={
     Object {
@@ -769,7 +769,7 @@ exports[`Species icon of mapped species monkey 1`] = `
 
 exports[`Species icon of mapped species monodelphis domestica 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="9"
   style={
     Object {
@@ -782,7 +782,7 @@ exports[`Species icon of mapped species monodelphis domestica 1`] = `
 
 exports[`Species icon of mapped species mosquito 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="1"
   style={
     Object {
@@ -795,7 +795,7 @@ exports[`Species icon of mapped species mosquito 1`] = `
 
 exports[`Species icon of mapped species mouse 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="M"
   style={
     Object {
@@ -808,7 +808,7 @@ exports[`Species icon of mapped species mouse 1`] = `
 
 exports[`Species icon of mapped species mouse lemur 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="N"
   style={
     Object {
@@ -821,7 +821,7 @@ exports[`Species icon of mapped species mouse lemur 1`] = `
 
 exports[`Species icon of mapped species mus musculus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="M"
   style={
     Object {
@@ -834,7 +834,7 @@ exports[`Species icon of mapped species mus musculus 1`] = `
 
 exports[`Species icon of mapped species mustela putorius furo 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="!"
   style={
     Object {
@@ -847,7 +847,7 @@ exports[`Species icon of mapped species mustela putorius furo 1`] = `
 
 exports[`Species icon of mapped species orangutan 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="*"
   style={
     Object {
@@ -860,7 +860,7 @@ exports[`Species icon of mapped species orangutan 1`] = `
 
 exports[`Species icon of mapped species ornithorhynchus anatinus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="U"
   style={
     Object {
@@ -873,7 +873,7 @@ exports[`Species icon of mapped species ornithorhynchus anatinus 1`] = `
 
 exports[`Species icon of mapped species oryctolagus cuniculus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="t"
   style={
     Object {
@@ -886,7 +886,7 @@ exports[`Species icon of mapped species oryctolagus cuniculus 1`] = `
 
 exports[`Species icon of mapped species oryza sativa 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="6"
   style={
     Object {
@@ -899,7 +899,7 @@ exports[`Species icon of mapped species oryza sativa 1`] = `
 
 exports[`Species icon of mapped species oryza sativa japonica group 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="6"
   style={
     Object {
@@ -912,7 +912,7 @@ exports[`Species icon of mapped species oryza sativa japonica group 1`] = `
 
 exports[`Species icon of mapped species ovis aries 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="x"
   style={
     Object {
@@ -925,7 +925,7 @@ exports[`Species icon of mapped species ovis aries 1`] = `
 
 exports[`Species icon of mapped species pan paniscus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="i"
   style={
     Object {
@@ -938,7 +938,7 @@ exports[`Species icon of mapped species pan paniscus 1`] = `
 
 exports[`Species icon of mapped species pan troglodytes 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="i"
   style={
     Object {
@@ -951,7 +951,7 @@ exports[`Species icon of mapped species pan troglodytes 1`] = `
 
 exports[`Species icon of mapped species papio anubis 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="8"
   style={
     Object {
@@ -964,7 +964,7 @@ exports[`Species icon of mapped species papio anubis 1`] = `
 
 exports[`Species icon of mapped species physcomitrella patens 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="P"
   style={
     Object {
@@ -977,7 +977,7 @@ exports[`Species icon of mapped species physcomitrella patens 1`] = `
 
 exports[`Species icon of mapped species pig 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="p"
   style={
     Object {
@@ -990,7 +990,7 @@ exports[`Species icon of mapped species pig 1`] = `
 
 exports[`Species icon of mapped species plant 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="P"
   style={
     Object {
@@ -1003,7 +1003,7 @@ exports[`Species icon of mapped species plant 1`] = `
 
 exports[`Species icon of mapped species plasmodium 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="@"
   style={
     Object {
@@ -1016,7 +1016,7 @@ exports[`Species icon of mapped species plasmodium 1`] = `
 
 exports[`Species icon of mapped species platypus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="U"
   style={
     Object {
@@ -1029,7 +1029,7 @@ exports[`Species icon of mapped species platypus 1`] = `
 
 exports[`Species icon of mapped species pongo abelii 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="*"
   style={
     Object {
@@ -1042,7 +1042,7 @@ exports[`Species icon of mapped species pongo abelii 1`] = `
 
 exports[`Species icon of mapped species pongo pygmaeus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="*"
   style={
     Object {
@@ -1055,7 +1055,7 @@ exports[`Species icon of mapped species pongo pygmaeus 1`] = `
 
 exports[`Species icon of mapped species pufferfish 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="E"
   style={
     Object {
@@ -1068,7 +1068,7 @@ exports[`Species icon of mapped species pufferfish 1`] = `
 
 exports[`Species icon of mapped species pyrrhula pyrrhula 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="n"
   style={
     Object {
@@ -1081,7 +1081,7 @@ exports[`Species icon of mapped species pyrrhula pyrrhula 1`] = `
 
 exports[`Species icon of mapped species rabbit 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="t"
   style={
     Object {
@@ -1094,7 +1094,7 @@ exports[`Species icon of mapped species rabbit 1`] = `
 
 exports[`Species icon of mapped species rat 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="R"
   style={
     Object {
@@ -1107,7 +1107,7 @@ exports[`Species icon of mapped species rat 1`] = `
 
 exports[`Species icon of mapped species rattus norvegicus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="R"
   style={
     Object {
@@ -1120,7 +1120,7 @@ exports[`Species icon of mapped species rattus norvegicus 1`] = `
 
 exports[`Species icon of mapped species ray 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="+"
   style={
     Object {
@@ -1133,7 +1133,7 @@ exports[`Species icon of mapped species ray 1`] = `
 
 exports[`Species icon of mapped species saccharomyces cerevisiae 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="Y"
   style={
     Object {
@@ -1146,7 +1146,7 @@ exports[`Species icon of mapped species saccharomyces cerevisiae 1`] = `
 
 exports[`Species icon of mapped species schistosoma mansoni 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="W"
   style={
     Object {
@@ -1159,7 +1159,7 @@ exports[`Species icon of mapped species schistosoma mansoni 1`] = `
 
 exports[`Species icon of mapped species schizosaccharomyces pombe 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="Y"
   style={
     Object {
@@ -1172,7 +1172,7 @@ exports[`Species icon of mapped species schizosaccharomyces pombe 1`] = `
 
 exports[`Species icon of mapped species scorpion 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="s"
   style={
     Object {
@@ -1185,7 +1185,7 @@ exports[`Species icon of mapped species scorpion 1`] = `
 
 exports[`Species icon of mapped species sheep 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="x"
   style={
     Object {
@@ -1198,7 +1198,7 @@ exports[`Species icon of mapped species sheep 1`] = `
 
 exports[`Species icon of mapped species shrew 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="Q"
   style={
     Object {
@@ -1211,7 +1211,7 @@ exports[`Species icon of mapped species shrew 1`] = `
 
 exports[`Species icon of mapped species snail 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="'"
   style={
     Object {
@@ -1224,7 +1224,7 @@ exports[`Species icon of mapped species snail 1`] = `
 
 exports[`Species icon of mapped species solanum lycopersicum 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon=")"
   style={
     Object {
@@ -1237,7 +1237,7 @@ exports[`Species icon of mapped species solanum lycopersicum 1`] = `
 
 exports[`Species icon of mapped species solanum tuberosum 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon=")"
   style={
     Object {
@@ -1250,7 +1250,7 @@ exports[`Species icon of mapped species solanum tuberosum 1`] = `
 
 exports[`Species icon of mapped species sorghum bicolor 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="P"
   style={
     Object {
@@ -1263,7 +1263,7 @@ exports[`Species icon of mapped species sorghum bicolor 1`] = `
 
 exports[`Species icon of mapped species spider 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="S"
   style={
     Object {
@@ -1276,7 +1276,7 @@ exports[`Species icon of mapped species spider 1`] = `
 
 exports[`Species icon of mapped species squirrel 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="I"
   style={
     Object {
@@ -1289,7 +1289,7 @@ exports[`Species icon of mapped species squirrel 1`] = `
 
 exports[`Species icon of mapped species sus scrofa 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="p"
   style={
     Object {
@@ -1302,7 +1302,7 @@ exports[`Species icon of mapped species sus scrofa 1`] = `
 
 exports[`Species icon of mapped species tetraodon nigroviridis 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="E"
   style={
     Object {
@@ -1315,7 +1315,7 @@ exports[`Species icon of mapped species tetraodon nigroviridis 1`] = `
 
 exports[`Species icon of mapped species tick 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="&"
   style={
     Object {
@@ -1328,7 +1328,7 @@ exports[`Species icon of mapped species tick 1`] = `
 
 exports[`Species icon of mapped species tomatoes 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon=")"
   style={
     Object {
@@ -1341,7 +1341,7 @@ exports[`Species icon of mapped species tomatoes 1`] = `
 
 exports[`Species icon of mapped species triticum aestivum 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="P"
   style={
     Object {
@@ -1354,7 +1354,7 @@ exports[`Species icon of mapped species triticum aestivum 1`] = `
 
 exports[`Species icon of mapped species vicugna pacos 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="a"
   style={
     Object {
@@ -1367,7 +1367,7 @@ exports[`Species icon of mapped species vicugna pacos 1`] = `
 
 exports[`Species icon of mapped species virus 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="v"
   style={
     Object {
@@ -1380,7 +1380,7 @@ exports[`Species icon of mapped species virus 1`] = `
 
 exports[`Species icon of mapped species vitis vinifera 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="O"
   style={
     Object {
@@ -1393,7 +1393,7 @@ exports[`Species icon of mapped species vitis vinifera 1`] = `
 
 exports[`Species icon of mapped species wallaby 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="w"
   style={
     Object {
@@ -1406,7 +1406,7 @@ exports[`Species icon of mapped species wallaby 1`] = `
 
 exports[`Species icon of mapped species xenopus (silurana) tropicalis 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="f"
   style={
     Object {
@@ -1419,7 +1419,7 @@ exports[`Species icon of mapped species xenopus (silurana) tropicalis 1`] = `
 
 exports[`Species icon of mapped species xenopus tropicalis 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="f"
   style={
     Object {
@@ -1432,7 +1432,7 @@ exports[`Species icon of mapped species xenopus tropicalis 1`] = `
 
 exports[`Species icon of mapped species yeast 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="Y"
   style={
     Object {
@@ -1445,7 +1445,7 @@ exports[`Species icon of mapped species yeast 1`] = `
 
 exports[`Species icon of mapped species zea mays 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="c"
   style={
     Object {
@@ -1458,7 +1458,7 @@ exports[`Species icon of mapped species zea mays 1`] = `
 
 exports[`Species icon of mapped species zebrafish 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon="Z"
   style={
     Object {
@@ -1471,7 +1471,7 @@ exports[`Species icon of mapped species zebrafish 1`] = `
 
 exports[`Species icon of unknown species 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="sc-bdVaJa dVvhnE"
   data-icon=""
   style={
     Object {
