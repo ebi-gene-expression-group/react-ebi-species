@@ -5,7 +5,8 @@ const commonPublicPath = `/dist/`
 
 module.exports = {
   entry: {
-    reactEbiSpeciesDemo: `./html/demo.js`
+    reactEbiSpeciesDemo: `./html/demo.js`,
+    reactEbiSpeciesDemoBare: `./html/demoBare.js`
     // dependencies: [`prop-types`, `react`, `react-dom`, `urijs`]
   },
 
@@ -21,18 +22,11 @@ module.exports = {
 
   optimization: {
     splitChunks: {
-      chunks: `all`,
-      minSize: 1,
       cacheGroups: {
-        reactEbiSpecies: {
-          test: /[\\/]src[\\/]/,
-          name: `reactEbiSpecies`,
-          priority: -20
-        },
-        vendors: {
+        commons: {
           test: /[\\/]node_modules[\\/]/,
-          name: `vendors`,
-          priority: -10
+          name: 'vendors',
+          chunks: 'all'
         }
       }
     }
