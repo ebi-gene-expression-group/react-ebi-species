@@ -5,6 +5,8 @@ const commonPublicPath = `/dist/`
 
 module.exports = {
   entry: {
+    reactEbiSpecies: `./src/index.js`,
+    reactEbiSpeciesBare: `./src/index.js`,
     reactEbiSpeciesClassyDemo: `./html/classyDemo.js`,
     reactEbiSpeciesBareDemo: `./html/bareDemo.js`
   },
