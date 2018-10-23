@@ -5,9 +5,8 @@ const commonPublicPath = `/dist/`
 
 module.exports = {
   entry: {
-    reactEbiSpeciesDemo: `./html/demo.js`,
-    reactEbiSpeciesDemoBare: `./html/demoBare.js`
-    // dependencies: [`prop-types`, `react`, `react-dom`, `urijs`]
+    reactEbiSpeciesClassyDemo: `./html/classyDemo.js`,
+    reactEbiSpeciesBareDemo: `./html/bareDemo.js`
   },
 
   plugins: [

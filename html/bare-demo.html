@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>React EBI Species demo</title>
+
+  <style>
+    th {
+      font-weight: bold;
+    }
+
+    td {
+      text-align: center;
+    }
+
+    td:nth-child(2) {
+      font-size: 6rem;
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+    <h1>Single species with custom colour</h1>
+    <div style="font-size: 4rem;" id="single"></div>
+  </div>
+
+  <div>
+    <h1>Unknown species</h1>
+    <div style="font-size: 4rem;" id="unknown"></div>
+  </div>
+
+  <div>
+    <h1>All species with default colours</h1>
+    <div id="all-default"></div>
+  </div>
+
+  <div>
+    <h1>All species with custom group colours</h1>
+    <div id="all-custom"></div>
+  </div>
+</body>
+
+<script src="../dist/vendors.bundle.js"></script>
+<script src="../dist/reactEbiSpeciesBareDemo.bundle.js"></script>
+
+<script>
+  reactEbiSpeciesBareDemo.render({species: 'anolis', color: 'orange'}, 'single');
+  reactEbiSpeciesBareDemo.render({species: 'crocubot'}, 'unknown');
+  reactEbiSpeciesBareDemo.renderAll('all-default');
+  reactEbiSpeciesBareDemo.renderAll('all-custom', {warmBlooded: `slateblue`, plants: `saddlebrown`, other: `silver`});
+</script>
+
+</html>

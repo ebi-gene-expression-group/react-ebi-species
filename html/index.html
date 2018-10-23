@@ -2,36 +2,17 @@
 <html lang="en">
 <head>
   <title>React EBI Species demo</title>
-
   <link rel="stylesheet" href="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/css/ebi-global.css" type="text/css" media="all" />
   <link rel="stylesheet" href="https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/fonts.css" type="text/css" media="all" />
 </head>
 
 <body>
-  <div class="row">
-    <div class="small-12 columns">
-      <div class="row margin-bottom-large">
-        <h3>Single species</h3>
-        <div id="target-single"></div>
-      </div>
-
-      <div class="row margin-top-large">
-        <div id="content" class="small-3 columns">
-          <h3>All species</h3>
-          <div id="target-all"></div>
-        </div>
-      </div>
-    </div>
+  <div class="row column">
+    <h1>React EBI Species</h1>
+    <ul>
+      <li><h3><a href="classy-demo.html">With classes</a></h3></li>
+      <li><h3><a href="bare-demo.html">No class</a></h3></li>
+    </ul>
   </div>
 </body>
-
-<script src="../dist/vendors.bundle.js"></script>
-<script src="../dist/reactEbiSpecies.bundle.js"></script>
-<script src="../dist/reactEbiSpeciesDemo.bundle.js"></script>
-
-<script>
-  reactEbiSpeciesDemo.render({species: 'homo sapiens'}, 'target-single')
-  reactEbiSpeciesDemo.renderAll('target-all')
-</script>
-
 </html>
