@@ -93,4 +93,4 @@ for (let group in mapping) {
   }
 }
 
-export { lookUpIcon as default, allSpecies }
+export { lookUpIcon, allSpecies }

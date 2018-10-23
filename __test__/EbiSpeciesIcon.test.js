@@ -4,7 +4,7 @@ import Enzyme from 'enzyme'
 import { shallow } from 'enzyme'
 import Adapter from 'enzyme-adapter-react-16'
 
-import lookupIcon, { allSpecies } from '../src/mapping'
+import { lookUpIcon, allSpecies } from '../src/mapping'
 import EbiSpeciesIcon from '../src/EbiSpeciesIcon'
 
 Enzyme.configure({ adapter: new Adapter() })
@@ -15,7 +15,7 @@ const altGroupColors = {
   other: `yellow`
 }
 
-describe(`EbiSpeciesIcion with classes`, () => {
+describe(`EbiSpeciesIcon with classes`, () => {
   allSpecies.forEach(species => {
     test(`Icon of mapped species ${species} matches snapshot`, () => {
       const tree = renderer.create(<EbiSpeciesIcon species={species} />).toJSON()
@@ -29,7 +29,7 @@ describe(`EbiSpeciesIcion with classes`, () => {
   })
 
   test(`Warm-blooded species are red, violets are blue`, () => {
-    const mappedMammals = allSpecies.filter((species) => lookupIcon(species)[0] === `mammals`)
+    const mappedMammals = allSpecies.filter((species) => lookUpIcon(species)[0] === `mammals`)
 
     mappedMammals.forEach((warmBloodedAnimal) => {
       expect(shallow(<EbiSpeciesIcon species={warmBloodedAnimal} />).prop(`style`).color).toMatch(`red`)
@@ -41,7 +41,7 @@ describe(`EbiSpeciesIcion with classes`, () => {
   })
 
   test(`Plants are green`, () => {
-    const mappedPlants = gallSpecies.filter((species) => lookupIcon(species)[0] === `plants`)
+    const mappedPlants = allSpecies.filter((species) => lookUpIcon(species)[0] === `plants`)
 
     mappedPlants.forEach(plant => {
       expect(shallow(<EbiSpeciesIcon species={plant} />).prop(`style`).color).toMatch(`green`)
@@ -53,7 +53,7 @@ describe(`EbiSpeciesIcion with classes`, () => {
   })
 
   test(`Roses are red, others are blue`, () => {
-    const mappedOthers = allSpecies.filter((species) => lookupIcon(species)[0] === `other`)
+    const mappedOthers = allSpecies.filter((species) => lookUpIcon(species)[0] === `other`)
 
     mappedOthers.forEach(other => {
       expect(shallow(<EbiSpeciesIcon species={other} />).prop(`style`).color).toMatch(`blue`)
