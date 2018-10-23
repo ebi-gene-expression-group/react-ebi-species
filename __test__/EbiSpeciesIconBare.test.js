@@ -28,6 +28,10 @@ describe (`EbiSpeciesIconBare`, () => {
     expect(tree).toMatchSnapshot()
   })
 
+  test(`doesn’t use EBI VF class names`, () => {
+    expect(shallow(<EbiSpeciesIconBare species={`crocubot`} />).find(`.icon.icon-species`)).toHaveLength(0)
+  })
+
   test(`Warm-blooded species are red, violets are blue`, () => {
     const mappedMammals = allSpecies.filter((species) => lookUpIcon(species)[0] === `mammals`)
 
