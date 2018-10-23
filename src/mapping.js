@@ -1,5 +1,5 @@
 const mapping = {
-  warmBlooded: {
+  "warmBlooded": {
     "a": [`alpaca`, `vicugna pacos`],
     "l": [`armadillo`],
     "(": [`bat`],
@@ -34,7 +34,7 @@ const mapping = {
     "I": [`squirrel`],
     "w": [`wallaby`]
   },
-  plants: {
+  "plants": {
     "5": [`barley`, `hordeum vulgare`, `hordeum vulgare subsp. vulgare`],
     "B": [`brassica`, `brassica oleracea`, `brassica rapa`, `arabidopsis`, `arabidopsis thaliana`, `arabidopsis lyrata`],
     "%": [`brachypodium`, `brachypodium distachyon`],
@@ -72,12 +72,12 @@ const mapping = {
   }
 }
 
-const lookupInGroup = (group, species) =>
+const lookUpInGroup = (group, species) =>
   Object.keys(mapping[group]).find(iconChar => mapping[group][iconChar].includes(species.toLowerCase()))
 
-const lookupIcon = (species) => {
+const lookUpIcon = (species) => {
   for (const group in mapping) {
-    const iconChar = lookupInGroup(group, species)
+    const iconChar = lookUpInGroup(group, species)
     if (iconChar) {
       return [group, iconChar]
     }
@@ -97,4 +97,4 @@ const getAllSpecies = () => {
   return allSpecies
 }
 
-export {lookupIcon as default, getAllSpecies}
+export { lookUpIcon as default, getAllSpecies }
