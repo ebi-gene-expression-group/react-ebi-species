@@ -37,21 +37,6 @@ module.exports = {
         test: /\.js$/i,
         exclude: /node_modules\//,
         use: `babel-loader`
-      },
-      {
-          test: /\.svg$/i,
-          use: [
-              {
-                  loader: `file-loader`,
-                  options: {
-                      query: {
-                          name: `[hash].[ext]`,
-                          hash: `sha512`,
-                          digest: `hex`
-                      }
-                  }
-              }
-          ]
       }
     ]
   },
