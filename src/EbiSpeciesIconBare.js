@@ -3,13 +3,13 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import { createGlobalStyle } from 'styled-components'
 
-import lookUpIcon from './mapping'
+import lookUpIcon from './mapping.js'
 
 const capitalizeFirstLetter = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase()
 }
 
-const GlobalStyle = createGlobalStyle`
+const EbiSpeciesFont = createGlobalStyle`
   @font-face {
     font-family: 'EBI-Species';
     src:url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.eot');
@@ -33,7 +33,6 @@ const StyledEbiIcon = styled.span`
 
 const StyledEbiIconSpecies = styled(StyledEbiIcon)`
   ::before {
-    color: ${(props) => props.color}
     font-family: 'EBI-Species';
     content: attr(data-icon);
     text-transform: none;
@@ -43,10 +42,15 @@ const StyledEbiIconSpecies = styled(StyledEbiIcon)`
 const EbiSpeciesIconBare = ({species, groupColors, color}) => {
   const [group, icon] = lookUpIcon(species)
   return (
-    <StyledEbiIconSpecies
-      color={color || groupColors[group] || `black`}
-      data-icon={icon}
-      title={capitalizeFirstLetter(species)}/>
+    icon ?
+      <div>
+        <EbiSpeciesFont />
+        <StyledEbiIconSpecies
+          style={{color: color || groupColors[group] || `black`}}
+          data-icon={icon}
+          title={capitalizeFirstLetter(species)}/>
+      </div> :
+      <span tile={capitalizeFirstLetter(species)}>❔</span>
   )
 }
 

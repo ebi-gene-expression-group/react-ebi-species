@@ -10,11 +10,13 @@ const capitalizeFirstLetter = (string) => {
 const EbiSpeciesIcon = ({species, groupColors, color}) => {
   const [group, icon] = lookUpIcon(species)
   return (
-    <span
-      className={`icon icon-species`}
-      style={{color: color || groupColors[group] || `black`}}
-      data-icon={icon}
-      title={capitalizeFirstLetter(species)}/>
+    icon ?
+      <span
+        className={`icon icon-species`}
+        style={{color: color || groupColors[group] || `black`}}
+        data-icon={icon}
+        title={capitalizeFirstLetter(species)}/> :
+      <span tile={capitalizeFirstLetter(species)}>❔</span>
   )
 }
 
