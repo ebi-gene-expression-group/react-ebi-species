@@ -1,0 +1,1613 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EbiSpeciesIconBare Icon of mapped species alpaca matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="a"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Alpaca"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species amoeba matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="0"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Amoeba"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species anolis carolinensis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="7"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Anolis carolinensis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species anolis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="7"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Anolis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis lyrata matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Arabidopsis lyrata"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Arabidopsis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis thaliana matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Arabidopsis thaliana"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species armadillo matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="l"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Armadillo"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species aspergillus fumigatus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="£"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Aspergillus fumigatus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species aspergillus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="£"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Aspergillus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species barley matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="5"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Barley"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species bat matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="("
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Bat"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species bee matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="$"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Bee"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species bos taurus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="C"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Bos taurus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species brachypodium distachyon matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="%"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brachypodium distachyon"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species brachypodium matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="%"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brachypodium"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species brassica matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brassica"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species brassica oleracea matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brassica oleracea"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species brassica rapa matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brassica rapa"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species bug matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="b"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Bug"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species c elegans matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="W"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="C elegans"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species caenorhabditis elegans matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="W"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Caenorhabditis elegans"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species canis lupus familiaris matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="d"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Canis lupus familiaris"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species canis lupus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="d"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Canis lupus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species cat matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="A"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Cat"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species cavia porcellus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="g"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Cavia porcellus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species chicken matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="k"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Chicken"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species chimpanzee matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="i"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Chimpanzee"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species corn matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="c"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Corn"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species cow matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="C"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Cow"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species danio rerio matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="Z"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Danio rerio"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species diatom matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="2"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Diatom"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species dog matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="d"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Dog"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species dolphin matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="D"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Dolphin"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species drosophila melanogaster matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="F"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Drosophila melanogaster"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species ecoli matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="L"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Ecoli"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species elephant matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="e"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Elephant"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species elephas maximus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="e"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Elephas maximus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species equus caballus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="h"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Equus caballus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species erinaceus europaeus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="o"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Erinaceus europaeus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species escherichia coli matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="L"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Escherichia coli"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species felis catus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="A"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Felis catus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species ferret matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="!"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Ferret"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species finch matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="n"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Finch"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species fly matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="F"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Fly"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species frog matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="f"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Frog"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species fungus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="u"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Fungus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species gallus gallus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="k"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Gallus gallus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species glycine max matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="^"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Glycine max"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species glycinemax matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="^"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Glycinemax"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species goat matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="m"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Goat"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species gorilla gorilla matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="G"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Gorilla gorilla"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species gorilla matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="G"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Gorilla"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species grapes matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="O"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Grapes"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species guinea pig matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="g"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Guinea pig"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species hedgehog matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="o"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Hedgehog"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species homo sapiens matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="H"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Homo sapiens"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species hordeum vulgare matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="5"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Hordeum vulgare"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species hordeum vulgare subsp. vulgare matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="5"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Hordeum vulgare subsp. vulgare"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species horse matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="h"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Horse"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species human matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="H"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Human"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species kangaroo rat matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="3"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Kangaroo rat"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species louse matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="4"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Louse"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species loxodonta africana matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="e"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Loxodonta africana"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species loxodonta cyclotis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="e"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Loxodonta cyclotis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species macaca mulatta matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="r"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Macaca mulatta"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species monkey matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="r"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Monkey"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species monodelphis domestica matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="9"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Monodelphis domestica"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species monodelphis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="9"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Monodelphis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species mosquito matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="1"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Mosquito"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species mouse lemur matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="N"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mouse lemur"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species mouse matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="M"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mouse"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species mus musculus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="M"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mus musculus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species mustela putorius furo matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="!"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mustela putorius furo"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species orangutan matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="*"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Orangutan"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species ornithorhynchus anatinus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="U"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Ornithorhynchus anatinus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species oryctolagus cuniculus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="t"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Oryctolagus cuniculus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species oryza sativa japonica group matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="6"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Oryza sativa japonica group"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species oryza sativa matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="6"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Oryza sativa"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species ovis aries matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="x"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Ovis aries"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pan paniscus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="i"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pan paniscus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pan troglodytes matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="i"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pan troglodytes"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species papio anubis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="8"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Papio anubis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species physcomitrella patens matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Physcomitrella patens"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pig matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="p"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pig"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species plant matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Plant"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species plasmodium matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="@"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Plasmodium"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species platypus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="U"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Platypus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pongo abelii matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="*"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pongo abelii"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pongo pygmaeus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="*"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pongo pygmaeus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pufferfish matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="E"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Pufferfish"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species pyrrhula pyrrhula matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="n"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pyrrhula pyrrhula"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species rabbit matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="t"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Rabbit"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species rat matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="R"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Rat"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species rattus norvegicus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="R"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Rattus norvegicus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species ray matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="+"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Ray"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species rice matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="6"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Rice"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species saccharomyces cerevisiae matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Saccharomyces cerevisiae"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species schistosoma mansoni matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="W"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Schistosoma mansoni"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species schizosaccharomyces pombe matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Schizosaccharomyces pombe"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species scorpion matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="s"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Scorpion"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species sheep matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="x"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Sheep"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species shrew matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="Q"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Shrew"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species snail matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="'"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Snail"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species solanum lycopersicum matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon=")"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Solanum lycopersicum"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species solanum tuberosum matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon=")"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Solanum tuberosum"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species sorghum bicolor matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Sorghum bicolor"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species spider matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="S"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Spider"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species squirrel matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="I"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Squirrel"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species sus scrofa matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="p"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Sus scrofa"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species tetraodon nigroviridis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="E"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Tetraodon nigroviridis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species tick matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="&"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Tick"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species tomatoes matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon=")"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Tomatoes"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species triticum aestivum matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Triticum aestivum"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species vicugna pacos matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="a"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Vicugna pacos"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species virus matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="v"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Virus"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species vitis vinifera matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="O"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Vitis vinifera"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species wallaby matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="w"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Wallaby"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species xenopus (silurana) tropicalis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="f"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Xenopus (silurana) tropicalis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species xenopus tropicalis matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="f"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Xenopus tropicalis"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species yeast matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Yeast"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species zea mays matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="c"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Zea mays"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of mapped species zebrafish matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="Z"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Zebrafish"
+/>
+`;
+
+exports[`EbiSpeciesIconBare Icon of unknown species matches snapshot 1`] = `
+<span
+  className="sc-bwzfXH bAvtRF"
+  data-icon="❔"
+  style={
+    Object {
+      "color": "black",
+    }
+  }
+  title="Crocubot"
+/>
+`;
