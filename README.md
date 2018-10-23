@@ -1,6 +1,6 @@
 # EBI species icons for React
 
-[![Build Status](https://travis-ci.org/gxa/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species) [![Coverage Status](https://coveralls.io/repos/github/gxa/react-ebi-species/badge.svg?branch=master)](https://coveralls.io/github/gxa/react-ebi-species?branch=master) [![Dependency Status](https://gemnasium.com/badges/github.com/gxa/react-ebi-species.svg)](https://gemnasium.com/github.com/gxa/react-ebi-species)
+[![Build Status](https://travis-ci.org/ebi-gene-expression-group/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species) [![Coverage Status](https://coveralls.io/repos/github/ebi-gene-expression-group/react-ebi-species/badge.svg?branch=master)](https://coveralls.io/github/gxa/react-ebi-species?branch=master) [![Dependency Status](https://gemnasium.com/badges/github.com/ebi-gene-expression-group/react-ebi-species.svg)](https://gemnasium.com/github.com/gxa/react-ebi-species)
 
 Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/), mapped per species so one can select the correct icon programmatically.
 
