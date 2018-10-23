@@ -8,7 +8,7 @@ const capitalizeFirstLetter = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase()
 }
 
-const StyledEbiIcon = styled(EbiSpeciesFont)`
+const StyledEbiIcon = styled.span`
   text-decoration: none;
   font-style: normal;
   text-rendering: optimizeLegibility !important;
