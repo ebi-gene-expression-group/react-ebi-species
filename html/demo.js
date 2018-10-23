@@ -1,20 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import { getAllSpecies } from '../src/mapping'
+import { allSpecies } from '../src/mapping'
 
 // Returns a function to render all species with the component passed in as argument
 const _renderAll = (EbiSpeciesIcon) =>
-  (target, groupColors) => {
-    const allSpecies = getAllSpecies()
-
-    const allIcons = allSpecies.map((species) =>
-      <tr key={species}>
-        <td>{species}</td>
-        <td><EbiSpeciesIcon species={species} groupColors={groupColors}/></td>
-      </tr>
-    )
-
+  (target, groupColors) =>
     ReactDOM.render(
       <div>
         <table>
@@ -25,13 +16,16 @@ const _renderAll = (EbiSpeciesIcon) =>
             </tr>
           </thead>
 
-          <tbody>
-            {allIcons}
+          <tbody>{allSpecies.map((species) =>
+            <tr key={species}>
+              <td>{species}</td>
+              <td><EbiSpeciesIcon species={species} groupColors={groupColors}/></td>
+            </tr>
+          )}
           </tbody>
         </table>
       </div>,
       document.getElementById(target)
     )
-  }
 
 export default _renderAll
