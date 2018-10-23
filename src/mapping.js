@@ -86,15 +86,11 @@ const lookUpIcon = (species) => {
   return [``, ``]
 }
 
-const getAllSpecies = () => {
-  const allSpecies = []
-  Object.keys(mapping).forEach((group) => {
-    Object.keys(mapping[group]).forEach((iconChar) => {
-      mapping[group][iconChar].forEach(species => allSpecies.push(species))
-    })
-  })
-
-  return allSpecies
+const allSpecies = []
+for (let group in mapping) {
+  for (let iconChar in mapping[group]) {
+    allSpecies.push(...mapping[group][iconChar])
+  }
 }
 
-export { lookUpIcon as default, getAllSpecies }
+export { lookUpIcon as default, allSpecies }
