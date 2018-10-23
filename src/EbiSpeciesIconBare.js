@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
-import { createGlobalStyle } from 'styled-components'
 
 import lookUpIcon from './mapping.js'
 
@@ -9,7 +8,16 @@ const capitalizeFirstLetter = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase()
 }
 
-const EbiSpeciesFont = createGlobalStyle`
+const StyledEbiIcon = styled(EbiSpeciesFont)`
+  text-decoration: none;
+  font-style: normal;
+  text-rendering: optimizeLegibility !important;
+  background-size: contain;
+  font-weight: 400;
+`
+
+// We don’t use props to set the colour here to avoid creating multiple classes
+const StyledEbiIconSpecies = styled(StyledEbiIcon)`
   @font-face {
     font-family: 'EBI-Species';
     src:url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.eot');
@@ -21,17 +29,7 @@ const EbiSpeciesFont = createGlobalStyle`
     font-weight: normal;
     font-style: normal;
   }
-`
 
-const StyledEbiIcon = styled.span`
-  text-decoration: none;
-  font-style: normal;
-  text-rendering: optimizeLegibility !important;
-  background-size: contain;
-  font-weight: 400;
-`
-
-const StyledEbiIconSpecies = styled(StyledEbiIcon)`
   ::before {
     font-family: 'EBI-Species';
     content: attr(data-icon);
@@ -43,13 +41,10 @@ const EbiSpeciesIconBare = ({species, groupColors, color}) => {
   const [group, icon] = lookUpIcon(species)
   return (
     icon ?
-      [
-        <EbiSpeciesFont />,
-        <StyledEbiIconSpecies
-          style={{color: color || groupColors[group] || `black`}}
-          data-icon={icon}
-          title={capitalizeFirstLetter(species)}/>
-      ] :
+      <StyledEbiIconSpecies
+        style={{color: color || groupColors[group] || `black`}}
+        data-icon={icon}
+        title={capitalizeFirstLetter(species)}/> :
       <span tile={capitalizeFirstLetter(species)}>❔</span>
   )
 }
