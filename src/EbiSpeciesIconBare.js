@@ -40,12 +40,10 @@ const StyledEbiIconSpecies = styled(StyledEbiIcon)`
 const EbiSpeciesIconBare = ({species, groupColors, color}) => {
   const [group, icon] = lookUpIcon(species)
   return (
-    icon ?
-      <StyledEbiIconSpecies
-        style={{color: color || groupColors[group] || `black`}}
-        data-icon={icon}
-        title={capitalizeFirstLetter(species)}/> :
-      <span tile={capitalizeFirstLetter(species)}>❔</span>
+    <StyledEbiIconSpecies
+      style={{color: color || groupColors[group] || `black`}}
+      data-icon={icon || `❔`}
+      title={capitalizeFirstLetter(species)} />
   )
 }
 
