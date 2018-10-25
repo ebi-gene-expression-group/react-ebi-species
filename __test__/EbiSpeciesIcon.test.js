@@ -1,65 +1,76 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
-import {shallow} from 'enzyme'
+import Enzyme from 'enzyme'
+import { shallow } from 'enzyme'
+import Adapter from 'enzyme-adapter-react-16'
 
-import lookupIcon, {getAllSpecies} from '../src/mapping.js'
-import EbiSpeciesIcon from '../src/EbiSpeciesIcon.js'
+import { lookUpIcon, allSpecies } from '../src/mapping'
+import EbiSpeciesIcon from '../src/EbiSpeciesIcon'
 
-const altGroupColours = {
+Enzyme.configure({ adapter: new Adapter() })
+
+const altGroupColors = {
   mammals: `brown`,
   plants: `orange`,
   other: `yellow`
 }
 
-getAllSpecies().forEach(species => {
-  test(`Species icon of mapped species ${species}`, () => {
-    const tree = renderer.create(<EbiSpeciesIcon species={species} />).toJSON()
+describe(`EbiSpeciesIcon with classes`, () => {
+  allSpecies.forEach(species => {
+    test(`Icon of mapped species ${species} matches snapshot`, () => {
+      const tree = renderer.create(<EbiSpeciesIcon species={species} />).toJSON()
+      expect(tree).toMatchSnapshot()
+    })
+  })
+
+  test(`Icon of unknown species matches snapshot`, () => {
+    const tree = renderer.create(<EbiSpeciesIcon species={`crocubot`} />).toJSON()
     expect(tree).toMatchSnapshot()
   })
-})
 
-test(`Species icon of unknown species`, () => {
-  const tree = renderer.create(<EbiSpeciesIcon species={`foous baris`} />).toJSON()
-  expect(tree).toMatchSnapshot()
-})
-
-test(`Mammals are red, violets are blue`, () => {
-  const mappedMammals = getAllSpecies().filter((species) => lookupIcon(species)[0] === `mammals`)
-
-  mappedMammals.forEach((mammal) => {
-    expect(shallow(<EbiSpeciesIcon species={mammal} />).prop(`style`)).toHaveProperty(`color`, `red`)
+  test(`uses EBI VF class names`, () => {
+    expect(shallow(<EbiSpeciesIcon species={`crocubot`} />).find(`.icon.icon-species`)).toHaveLength(1)
   })
 
-  mappedMammals.forEach((mammal) => {
-    expect(shallow(<EbiSpeciesIcon species={mammal} groupColours={altGroupColours} />).prop(`style`)).toHaveProperty(`color`, `brown`)
-  })
-})
+  test(`Warm-blooded species are red, violets are blue`, () => {
+    const mappedMammals = allSpecies.filter((species) => lookUpIcon(species)[0] === `mammals`)
 
-test(`Plants are green`, () => {
-  const mappedPlants = getAllSpecies().filter((species) => lookupIcon(species)[0] === `plants`)
+    mappedMammals.forEach((warmBloodedAnimal) => {
+      expect(shallow(<EbiSpeciesIcon species={warmBloodedAnimal} />).prop(`style`).color).toMatch(`red`)
+    })
 
-  mappedPlants.forEach(plant => {
-    expect(shallow(<EbiSpeciesIcon species={plant} />).prop(`style`)).toHaveProperty(`color`, `green`)
-  })
-
-  mappedPlants.forEach(plant => {
-    expect(shallow(<EbiSpeciesIcon species={plant} groupColours={altGroupColours} />).prop(`style`)).toHaveProperty(`color`, `orange`)
-  })
-})
-
-test(`Roses are red, others are blue`, () => {
-  const mappedOthers = getAllSpecies().filter((species) => lookupIcon(species)[0] === `other`)
-
-  mappedOthers.forEach(other => {
-    expect(shallow(<EbiSpeciesIcon species={other} />).prop(`style`)).toHaveProperty(`color`, `blue`)
+    mappedMammals.forEach((warmBloodedAnimal) => {
+      expect(shallow(<EbiSpeciesIcon species={warmBloodedAnimal} groupColors={altGroupColors} />).prop(`style`)).toHaveProperty(`color`, `brown`)
+    })
   })
 
-  mappedOthers.forEach(other => {
-    expect(shallow(<EbiSpeciesIcon species={other} groupColours={altGroupColours} />).prop(`style`)).toHaveProperty(`color`, `yellow`)
-  })
-})
+  test(`Plants are green`, () => {
+    const mappedPlants = allSpecies.filter((species) => lookUpIcon(species)[0] === `plants`)
 
-test(`Override colour`, () => {
-  expect(shallow(<EbiSpeciesIcon species={`homo sapiens`} colourOverride={`yellow`}/>).prop(`style`)).toHaveProperty(`color`, `yellow`)
-  expect(shallow(<EbiSpeciesIcon species={`homo sapiens`} groupColours={altGroupColours} colourOverride={`yellow`}/>).prop(`style`)).toHaveProperty(`color`, `yellow`)
+    mappedPlants.forEach(plant => {
+      expect(shallow(<EbiSpeciesIcon species={plant} />).prop(`style`).color).toMatch(`green`)
+    })
+
+    mappedPlants.forEach(plant => {
+      expect(shallow(<EbiSpeciesIcon species={plant} groupColors={altGroupColors} />).prop(`style`)).toHaveProperty(`color`, `orange`)
+    })
+  })
+
+  test(`Roses are red, others are blue`, () => {
+    const mappedOthers = allSpecies.filter((species) => lookUpIcon(species)[0] === `other`)
+
+    mappedOthers.forEach(other => {
+      expect(shallow(<EbiSpeciesIcon species={other} />).prop(`style`).color).toMatch(`blue`)
+    })
+
+    mappedOthers.forEach(other => {
+      expect(shallow(<EbiSpeciesIcon species={other} groupColors={altGroupColors} />).prop(`style`)).toHaveProperty(`color`, `yellow`)
+    })
+  })
+
+  test(`admits a colour prop that overrides group colouring`, () => {
+    expect(shallow(<EbiSpeciesIcon species={`homo sapiens`} color={`yellow`}/>).prop(`style`)).toHaveProperty(`color`, `yellow`)
+    expect(shallow(<EbiSpeciesIcon species={`homo sapiens`} groupColors={altGroupColors} color={`yellow`}/>).prop(`style`)).toHaveProperty(`color`, `yellow`)
+  })
+
 })

@@ -1,13 +1,15 @@
 {
   "name": "react-ebi-species",
-  "version": "1.2.5",
+  "version": "2.0.0-beta",
   "description": "React component based on the EBI species icons",
   "main": "lib/index.js",
   "scripts": {
-    "dist": "NODE_ENV=production webpack --optimize-minimize",
-    "prepublishOnly": "rm -rf lib && babel src -d lib --copy-files",
-    "test": "jest --coverage",
-    "posttest": "./node_modules/coveralls/bin/coveralls.js < ./coverage/lcov.info  || echo 'Coveralls upload failed, LOL ignoring'"
+    "prepack": "rm -rf lib && babel src -d lib --copy-files",
+    "testOnly": "jest --verbose --coverage",
+    "test": "npm run testOnly",
+    "posttest": "./node_modules/coveralls/bin/coveralls.js < ./coverage/lcov.info  || echo 'Coveralls upload failed'",
+    "postversion": "npm publish",
+    "postpublish": "git push && git push --tags"
   },
   "jest": {
     "moduleNameMapper": {
@@ -15,14 +17,14 @@
       "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
     }
   },
-  "author": "Wojciech Bazant <wbazant@ebi.ac.uk>",
+  "author": "Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>",
   "contributors": [
-    "Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>"
+    "Wojciech Bazant <wbazant@ebi.ac.uk>"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gxa/react-ebi-species"
+    "url": "https://github.com/ebi-gene-expression-group/react-ebi-species"
   },
   "keywords": [
     "react",
@@ -36,24 +38,27 @@
     "chicken"
   ],
   "dependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-core": "^6.25.0",
-    "babel-loader": "^7.1.1",
-    "babel-preset-env": "^1.6.0",
-    "babel-preset-react": "^6.24.1",
-    "clean-webpack-plugin": "^0.1.16",
-    "coveralls": "^2.13.1",
-    "css-loader": "^0.28.4",
-    "enzyme": "^2.9.1",
-    "jest": "^20.0.4",
-    "react-test-renderer": "^15.6.1",
-    "style-loader": "^0.18.2",
-    "webpack": "^3.4.1",
-    "webpack-dev-server": "^2.6.1"
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.4",
+    "clean-webpack-plugin": "^0.1.19",
+    "coveralls": "^3.0.2",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "jest": "^23.6.0",
+    "react-test-renderer": "^16.5.2",
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
   }
 }

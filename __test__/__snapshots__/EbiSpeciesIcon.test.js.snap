@@ -1,1483 +1,1613 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Species icon of mapped species alpaca 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species alpaca matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="a"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="alpaca"
+  title="Alpaca"
 />
 `;
 
-exports[`Species icon of mapped species amoeba 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species amoeba matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="0"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="amoeba"
+  title="Amoeba"
 />
 `;
 
-exports[`Species icon of mapped species anolis carolinensis 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species anolis carolinensis matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="7"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="anolis carolinensis"
+  title="Anolis carolinensis"
 />
 `;
 
-exports[`Species icon of mapped species arabidopsis lyrata 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species anolis matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="7"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Anolis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species arabidopsis lyrata matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="B"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="arabidopsis lyrata"
+  title="Arabidopsis lyrata"
 />
 `;
 
-exports[`Species icon of mapped species arabidopsis thaliana 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species arabidopsis matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="B"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="arabidopsis thaliana"
+  title="Arabidopsis"
 />
 `;
 
-exports[`Species icon of mapped species armadillo 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species arabidopsis thaliana matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Arabidopsis thaliana"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species armadillo matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="l"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="armadillo"
+  title="Armadillo"
 />
 `;
 
-exports[`Species icon of mapped species aspergillus fumigatus 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species aspergillus fumigatus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="£"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="aspergillus fumigatus"
+  title="Aspergillus fumigatus"
 />
 `;
 
-exports[`Species icon of mapped species barley 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species aspergillus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="£"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Aspergillus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species barley matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="5"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="barley"
+  title="Barley"
 />
 `;
 
-exports[`Species icon of mapped species bat 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species bat matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="("
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="bat"
+  title="Bat"
 />
 `;
 
-exports[`Species icon of mapped species bee 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species bee matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="$"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="bee"
+  title="Bee"
 />
 `;
 
-exports[`Species icon of mapped species bos taurus 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species bos taurus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="C"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="bos taurus"
+  title="Bos taurus"
 />
 `;
 
-exports[`Species icon of mapped species brachypodium distachyon 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species brachypodium distachyon matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="%"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="brachypodium distachyon"
+  title="Brachypodium distachyon"
 />
 `;
 
-exports[`Species icon of mapped species brassica oleracea 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species brachypodium matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="%"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brachypodium"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species brassica matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="B"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="brassica oleracea"
+  title="Brassica"
 />
 `;
 
-exports[`Species icon of mapped species brassica rapa 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species brassica oleracea matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="B"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="brassica rapa"
+  title="Brassica oleracea"
 />
 `;
 
-exports[`Species icon of mapped species bug 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species brassica rapa matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="B"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Brassica rapa"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species bug matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="b"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="bug"
+  title="Bug"
 />
 `;
 
-exports[`Species icon of mapped species caenorhabditis elegans 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species c elegans matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="W"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="caenorhabditis elegans"
+  title="C elegans"
 />
 `;
 
-exports[`Species icon of mapped species canis lupus 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species caenorhabditis elegans matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="W"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Caenorhabditis elegans"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species canis lupus familiaris matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="d"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="canis lupus"
+  title="Canis lupus familiaris"
 />
 `;
 
-exports[`Species icon of mapped species canis lupus familiaris 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species canis lupus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="d"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="canis lupus familiaris"
+  title="Canis lupus"
 />
 `;
 
-exports[`Species icon of mapped species cat 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species cat matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="A"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="cat"
+  title="Cat"
 />
 `;
 
-exports[`Species icon of mapped species cavia porcellus 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species cavia porcellus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="g"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="cavia porcellus"
+  title="Cavia porcellus"
 />
 `;
 
-exports[`Species icon of mapped species chicken 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species chicken matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="k"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="chicken"
+  title="Chicken"
 />
 `;
 
-exports[`Species icon of mapped species chimpanzee 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species chimpanzee matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="i"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="chimpanzee"
+  title="Chimpanzee"
 />
 `;
 
-exports[`Species icon of mapped species corn 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species corn matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="c"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="corn"
+  title="Corn"
 />
 `;
 
-exports[`Species icon of mapped species cow 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species cow matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="C"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="cow"
+  title="Cow"
 />
 `;
 
-exports[`Species icon of mapped species danio rerio 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species danio rerio matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="Z"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="danio rerio"
+  title="Danio rerio"
 />
 `;
 
-exports[`Species icon of mapped species diatom 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species diatom matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="2"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="diatom"
+  title="Diatom"
 />
 `;
 
-exports[`Species icon of mapped species dog 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species dog matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="d"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="dog"
+  title="Dog"
 />
 `;
 
-exports[`Species icon of mapped species dolphin 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species dolphin matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="D"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="dolphin"
+  title="Dolphin"
 />
 `;
 
-exports[`Species icon of mapped species drosophila melanogaster 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species drosophila melanogaster matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="F"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="drosophila melanogaster"
+  title="Drosophila melanogaster"
 />
 `;
 
-exports[`Species icon of mapped species elephant 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species ecoli matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="e"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="elephant"
-/>
-`;
-
-exports[`Species icon of mapped species elephas maximus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="e"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="elephas maximus"
-/>
-`;
-
-exports[`Species icon of mapped species equus caballus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="h"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="equus caballus"
-/>
-`;
-
-exports[`Species icon of mapped species erinaceus europaeus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="o"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="erinaceus europaeus"
-/>
-`;
-
-exports[`Species icon of mapped species escherichia coli 1`] = `
-<span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="L"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="escherichia coli"
+  title="Ecoli"
 />
 `;
 
-exports[`Species icon of mapped species felis catus 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species elephant matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="A"
+  className="icon icon-species"
+  data-icon="e"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="felis catus"
+  title="Elephant"
 />
 `;
 
-exports[`Species icon of mapped species ferret 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species elephas maximus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="!"
+  className="icon icon-species"
+  data-icon="e"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="ferret"
+  title="Elephas maximus"
 />
 `;
 
-exports[`Species icon of mapped species finch 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species equus caballus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="n"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="finch"
-/>
-`;
-
-exports[`Species icon of mapped species fly 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="F"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="fly"
-/>
-`;
-
-exports[`Species icon of mapped species frog 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="f"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="frog"
-/>
-`;
-
-exports[`Species icon of mapped species fungus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="u"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="fungus"
-/>
-`;
-
-exports[`Species icon of mapped species gallus gallus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="k"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="gallus gallus"
-/>
-`;
-
-exports[`Species icon of mapped species glycine max 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="^"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="glycine max"
-/>
-`;
-
-exports[`Species icon of mapped species goat 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="m"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="goat"
-/>
-`;
-
-exports[`Species icon of mapped species gorilla 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="G"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="gorilla"
-/>
-`;
-
-exports[`Species icon of mapped species gorilla gorilla 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="G"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="gorilla gorilla"
-/>
-`;
-
-exports[`Species icon of mapped species grapes 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="O"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="grapes"
-/>
-`;
-
-exports[`Species icon of mapped species guinea pig 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="g"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="guinea pig"
-/>
-`;
-
-exports[`Species icon of mapped species hedgehog 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="o"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="hedgehog"
-/>
-`;
-
-exports[`Species icon of mapped species homo sapiens 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="H"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="homo sapiens"
-/>
-`;
-
-exports[`Species icon of mapped species hordeum vulgare 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="5"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="hordeum vulgare"
-/>
-`;
-
-exports[`Species icon of mapped species hordeum vulgare subsp. vulgare 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="5"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="hordeum vulgare subsp. vulgare"
-/>
-`;
-
-exports[`Species icon of mapped species horse 1`] = `
-<span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="h"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="horse"
+  title="Equus caballus"
 />
 `;
 
-exports[`Species icon of mapped species human 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species erinaceus europaeus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="H"
+  className="icon icon-species"
+  data-icon="o"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="human"
+  title="Erinaceus europaeus"
 />
 `;
 
-exports[`Species icon of mapped species kangaroo rat 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species escherichia coli matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="3"
+  className="icon icon-species"
+  data-icon="L"
   style={
     Object {
-      "color": "red",
+      "color": "deepskyblue",
     }
   }
-  title="kangaroo rat"
+  title="Escherichia coli"
 />
 `;
 
-exports[`Species icon of mapped species louse 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species felis catus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="4"
+  className="icon icon-species"
+  data-icon="A"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="louse"
+  title="Felis catus"
 />
 `;
 
-exports[`Species icon of mapped species loxodonta africana 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species ferret matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="e"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="loxodonta africana"
-/>
-`;
-
-exports[`Species icon of mapped species loxodonta cyclotis 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="e"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="loxodonta cyclotis"
-/>
-`;
-
-exports[`Species icon of mapped species macaca mulatta 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="r"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="macaca mulatta"
-/>
-`;
-
-exports[`Species icon of mapped species monkey 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="r"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="monkey"
-/>
-`;
-
-exports[`Species icon of mapped species monodelphis domestica 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="9"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="monodelphis domestica"
-/>
-`;
-
-exports[`Species icon of mapped species mosquito 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="1"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="mosquito"
-/>
-`;
-
-exports[`Species icon of mapped species mouse 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="M"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="mouse"
-/>
-`;
-
-exports[`Species icon of mapped species mouse lemur 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="N"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="mouse lemur"
-/>
-`;
-
-exports[`Species icon of mapped species mus musculus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="M"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="mus musculus"
-/>
-`;
-
-exports[`Species icon of mapped species mustela putorius furo 1`] = `
-<span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="!"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="mustela putorius furo"
+  title="Ferret"
 />
 `;
 
-exports[`Species icon of mapped species orangutan 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species finch matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="*"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="orangutan"
-/>
-`;
-
-exports[`Species icon of mapped species ornithorhynchus anatinus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="U"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="ornithorhynchus anatinus"
-/>
-`;
-
-exports[`Species icon of mapped species oryctolagus cuniculus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="t"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="oryctolagus cuniculus"
-/>
-`;
-
-exports[`Species icon of mapped species oryza sativa 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="6"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="oryza sativa"
-/>
-`;
-
-exports[`Species icon of mapped species oryza sativa japonica group 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="6"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="oryza sativa japonica group"
-/>
-`;
-
-exports[`Species icon of mapped species ovis aries 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="x"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="ovis aries"
-/>
-`;
-
-exports[`Species icon of mapped species pan paniscus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="i"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="pan paniscus"
-/>
-`;
-
-exports[`Species icon of mapped species pan troglodytes 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="i"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="pan troglodytes"
-/>
-`;
-
-exports[`Species icon of mapped species papio anubis 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="8"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="papio anubis"
-/>
-`;
-
-exports[`Species icon of mapped species physcomitrella patens 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="P"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="physcomitrella patens"
-/>
-`;
-
-exports[`Species icon of mapped species pig 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="p"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="pig"
-/>
-`;
-
-exports[`Species icon of mapped species plant 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="P"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="plant"
-/>
-`;
-
-exports[`Species icon of mapped species plasmodium 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="@"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="plasmodium"
-/>
-`;
-
-exports[`Species icon of mapped species platypus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="U"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="platypus"
-/>
-`;
-
-exports[`Species icon of mapped species pongo abelii 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="*"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="pongo abelii"
-/>
-`;
-
-exports[`Species icon of mapped species pongo pygmaeus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="*"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="pongo pygmaeus"
-/>
-`;
-
-exports[`Species icon of mapped species pufferfish 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="E"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="pufferfish"
-/>
-`;
-
-exports[`Species icon of mapped species pyrrhula pyrrhula 1`] = `
-<span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="n"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="pyrrhula pyrrhula"
+  title="Finch"
 />
 `;
 
-exports[`Species icon of mapped species rabbit 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species fly matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="t"
+  className="icon icon-species"
+  data-icon="F"
   style={
     Object {
-      "color": "red",
+      "color": "deepskyblue",
     }
   }
-  title="rabbit"
+  title="Fly"
 />
 `;
 
-exports[`Species icon of mapped species rat 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species frog matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="R"
+  className="icon icon-species"
+  data-icon="f"
   style={
     Object {
-      "color": "red",
+      "color": "deepskyblue",
     }
   }
-  title="rat"
+  title="Frog"
 />
 `;
 
-exports[`Species icon of mapped species rattus norvegicus 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species fungus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="R"
+  className="icon icon-species"
+  data-icon="u"
   style={
     Object {
-      "color": "red",
+      "color": "deepskyblue",
     }
   }
-  title="rattus norvegicus"
+  title="Fungus"
 />
 `;
 
-exports[`Species icon of mapped species ray 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species gallus gallus matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="+"
+  className="icon icon-species"
+  data-icon="k"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="ray"
+  title="Gallus gallus"
 />
 `;
 
-exports[`Species icon of mapped species saccharomyces cerevisiae 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species glycine max matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="Y"
+  className="icon icon-species"
+  data-icon="^"
   style={
     Object {
-      "color": "blue",
+      "color": "mediumseagreen",
     }
   }
-  title="saccharomyces cerevisiae"
+  title="Glycine max"
 />
 `;
 
-exports[`Species icon of mapped species schistosoma mansoni 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species glycinemax matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="W"
+  className="icon icon-species"
+  data-icon="^"
   style={
     Object {
-      "color": "blue",
+      "color": "mediumseagreen",
     }
   }
-  title="schistosoma mansoni"
+  title="Glycinemax"
 />
 `;
 
-exports[`Species icon of mapped species schizosaccharomyces pombe 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species goat matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="Y"
+  className="icon icon-species"
+  data-icon="m"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="schizosaccharomyces pombe"
+  title="Goat"
 />
 `;
 
-exports[`Species icon of mapped species scorpion 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species gorilla gorilla matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="s"
+  className="icon icon-species"
+  data-icon="G"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="scorpion"
+  title="Gorilla gorilla"
 />
 `;
 
-exports[`Species icon of mapped species sheep 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species gorilla matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="x"
+  className="icon icon-species"
+  data-icon="G"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="sheep"
+  title="Gorilla"
 />
 `;
 
-exports[`Species icon of mapped species shrew 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species grapes matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="Q"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="shrew"
-/>
-`;
-
-exports[`Species icon of mapped species snail 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="'"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="snail"
-/>
-`;
-
-exports[`Species icon of mapped species solanum lycopersicum 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon=")"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="solanum lycopersicum"
-/>
-`;
-
-exports[`Species icon of mapped species solanum tuberosum 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon=")"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="solanum tuberosum"
-/>
-`;
-
-exports[`Species icon of mapped species sorghum bicolor 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="P"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="sorghum bicolor"
-/>
-`;
-
-exports[`Species icon of mapped species spider 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="S"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="spider"
-/>
-`;
-
-exports[`Species icon of mapped species squirrel 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="I"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="squirrel"
-/>
-`;
-
-exports[`Species icon of mapped species sus scrofa 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="p"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="sus scrofa"
-/>
-`;
-
-exports[`Species icon of mapped species tetraodon nigroviridis 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="E"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="tetraodon nigroviridis"
-/>
-`;
-
-exports[`Species icon of mapped species tick 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="&"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="tick"
-/>
-`;
-
-exports[`Species icon of mapped species tomatoes 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon=")"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="tomatoes"
-/>
-`;
-
-exports[`Species icon of mapped species triticum aestivum 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="P"
-  style={
-    Object {
-      "color": "green",
-    }
-  }
-  title="triticum aestivum"
-/>
-`;
-
-exports[`Species icon of mapped species vicugna pacos 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="a"
-  style={
-    Object {
-      "color": "red",
-    }
-  }
-  title="vicugna pacos"
-/>
-`;
-
-exports[`Species icon of mapped species virus 1`] = `
-<span
-  className="react-ebi-species-icon"
-  data-icon="v"
-  style={
-    Object {
-      "color": "blue",
-    }
-  }
-  title="virus"
-/>
-`;
-
-exports[`Species icon of mapped species vitis vinifera 1`] = `
-<span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="O"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="vitis vinifera"
+  title="Grapes"
 />
 `;
 
-exports[`Species icon of mapped species wallaby 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species guinea pig matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="w"
+  className="icon icon-species"
+  data-icon="g"
   style={
     Object {
-      "color": "red",
+      "color": "indianred",
     }
   }
-  title="wallaby"
+  title="Guinea pig"
 />
 `;
 
-exports[`Species icon of mapped species xenopus (silurana) tropicalis 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species hedgehog matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="f"
+  className="icon icon-species"
+  data-icon="o"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="xenopus (silurana) tropicalis"
+  title="Hedgehog"
 />
 `;
 
-exports[`Species icon of mapped species xenopus tropicalis 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species homo sapiens matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon="f"
+  className="icon icon-species"
+  data-icon="H"
   style={
     Object {
-      "color": "blue",
+      "color": "indianred",
     }
   }
-  title="xenopus tropicalis"
+  title="Homo sapiens"
 />
 `;
 
-exports[`Species icon of mapped species yeast 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species hordeum vulgare matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="5"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Hordeum vulgare"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species hordeum vulgare subsp. vulgare matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="5"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Hordeum vulgare subsp. vulgare"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species horse matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="h"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Horse"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species human matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="H"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Human"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species kangaroo rat matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="3"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Kangaroo rat"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species louse matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="4"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Louse"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species loxodonta africana matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="e"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Loxodonta africana"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species loxodonta cyclotis matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="e"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Loxodonta cyclotis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species macaca mulatta matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="r"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Macaca mulatta"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species monkey matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="r"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Monkey"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species monodelphis domestica matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="9"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Monodelphis domestica"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species monodelphis matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="9"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Monodelphis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species mosquito matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="1"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Mosquito"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species mouse lemur matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="N"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mouse lemur"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species mouse matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="M"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mouse"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species mus musculus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="M"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mus musculus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species mustela putorius furo matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="!"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Mustela putorius furo"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species orangutan matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="*"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Orangutan"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species ornithorhynchus anatinus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="U"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Ornithorhynchus anatinus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species oryctolagus cuniculus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="t"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Oryctolagus cuniculus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species oryza sativa japonica group matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="6"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Oryza sativa japonica group"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species oryza sativa matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="6"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Oryza sativa"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species ovis aries matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="x"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Ovis aries"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pan paniscus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="i"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pan paniscus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pan troglodytes matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="i"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pan troglodytes"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species papio anubis matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="8"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Papio anubis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species physcomitrella patens matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Physcomitrella patens"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pig matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="p"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pig"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species plant matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Plant"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species plasmodium matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="@"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Plasmodium"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species platypus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="U"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Platypus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pongo abelii matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="*"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pongo abelii"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pongo pygmaeus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="*"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pongo pygmaeus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pufferfish matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="E"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Pufferfish"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species pyrrhula pyrrhula matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="n"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Pyrrhula pyrrhula"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species rabbit matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="t"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Rabbit"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species rat matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="R"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Rat"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species rattus norvegicus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="R"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Rattus norvegicus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species ray matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="+"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Ray"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species rice matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="6"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Rice"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species saccharomyces cerevisiae matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="Y"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="yeast"
+  title="Saccharomyces cerevisiae"
 />
 `;
 
-exports[`Species icon of mapped species zea mays 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species schistosoma mansoni matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
+  data-icon="W"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Schistosoma mansoni"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species schizosaccharomyces pombe matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Schizosaccharomyces pombe"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species scorpion matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="s"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Scorpion"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species sheep matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="x"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Sheep"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species shrew matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="Q"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Shrew"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species snail matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="'"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Snail"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species solanum lycopersicum matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon=")"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Solanum lycopersicum"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species solanum tuberosum matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon=")"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Solanum tuberosum"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species sorghum bicolor matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Sorghum bicolor"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species spider matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="S"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Spider"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species squirrel matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="I"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Squirrel"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species sus scrofa matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="p"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Sus scrofa"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species tetraodon nigroviridis matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="E"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Tetraodon nigroviridis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species tick matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="&"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Tick"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species tomatoes matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon=")"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Tomatoes"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species triticum aestivum matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="P"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Triticum aestivum"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species vicugna pacos matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="a"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Vicugna pacos"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species virus matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="v"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Virus"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species vitis vinifera matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="O"
+  style={
+    Object {
+      "color": "mediumseagreen",
+    }
+  }
+  title="Vitis vinifera"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species wallaby matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="w"
+  style={
+    Object {
+      "color": "indianred",
+    }
+  }
+  title="Wallaby"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species xenopus (silurana) tropicalis matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="f"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Xenopus (silurana) tropicalis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species xenopus tropicalis matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="f"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Xenopus tropicalis"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species yeast matches snapshot 1`] = `
+<span
+  className="icon icon-species"
+  data-icon="Y"
+  style={
+    Object {
+      "color": "deepskyblue",
+    }
+  }
+  title="Yeast"
+/>
+`;
+
+exports[`EbiSpeciesIcon with classes Icon of mapped species zea mays matches snapshot 1`] = `
+<span
+  className="icon icon-species"
   data-icon="c"
   style={
     Object {
-      "color": "green",
+      "color": "mediumseagreen",
     }
   }
-  title="zea mays"
+  title="Zea mays"
 />
 `;
 
-exports[`Species icon of mapped species zebrafish 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of mapped species zebrafish matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
+  className="icon icon-species"
   data-icon="Z"
   style={
     Object {
-      "color": "blue",
+      "color": "deepskyblue",
     }
   }
-  title="zebrafish"
+  title="Zebrafish"
 />
 `;
 
-exports[`Species icon of unknown species 1`] = `
+exports[`EbiSpeciesIcon with classes Icon of unknown species matches snapshot 1`] = `
 <span
-  className="react-ebi-species-icon"
-  data-icon=""
+  className="icon icon-species"
+  data-icon="❔"
   style={
     Object {
-      "color": undefined,
+      "color": "black",
     }
   }
-  title="foous baris"
+  title="Crocubot"
 />
 `;

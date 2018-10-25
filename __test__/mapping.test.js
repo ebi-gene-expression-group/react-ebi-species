@@ -1,20 +1,21 @@
-import lookupIcon, {getAllSpecies} from '../src/mapping.js'
+import { lookUpIcon, allSpecies } from '../src/mapping'
 
-test(`lookupIcon returns correct icon character and group`, () => {
-  expect(lookupIcon(`homo sapiens`)).toEqual([`mammals`, `H`])
+test(`lookUpIcon returns correct icon character and group`, () => {
+  expect(lookUpIcon(`homo sapiens`)).toEqual([`warmBlooded`, `H`])
 })
 
-test(`lookupIcon is case insensitive`, () => {
-  expect(lookupIcon(`homo sapiens`)).toEqual(lookupIcon(`HoMo SaPiEnS`))
+test(`lookUpIcon is case insensitive`, () => {
+  expect(lookUpIcon(`homo sapiens`)).toEqual(lookUpIcon(`HoMo SaPiEnS`))
 })
 
-test(`lookupIcon returns empty strings for non-existing species`, () => {
-  expect(lookupIcon(`foo bar`)).toEqual([``, ``])
+test(`lookUpIcon returns empty strings for non-existing species`, () => {
+  expect(lookUpIcon(`foo bar`)).toEqual([``, ``])
 })
 
+// This test requires manual maintenance when a new version of the EBI-Species font is released
 test(`There are 65 mapped characters`, () => {
-  const mappedChars = getAllSpecies()
-    .map(lookupIcon)
+  const mappedChars = allSpecies
+    .map(lookUpIcon)
     .map((groupAndChar) => groupAndChar[1])
 
   expect(new Set(mappedChars).size).toEqual(65)

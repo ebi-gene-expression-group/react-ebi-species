@@ -1,34 +1,31 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import EbiSpeciesIcon, {render} from '../src/index.js'
-import {getAllSpecies} from '../src/mapping.js'
+import { allSpecies } from '../src/mapping'
 
-const renderAll = (target) => {
-  const allSpecies = getAllSpecies()
+// Returns a function to render all species with the component passed in as argument
+const _renderAll = (EbiSpeciesIcon) =>
+  (target, groupColors) =>
+    ReactDOM.render(
+      <div>
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Icon</th>
+            </tr>
+          </thead>
 
-  const allIcons = allSpecies.map((species) =>
-    <tr key={species}>
-      <td>{species}</td>
-      <td><EbiSpeciesIcon species={species}/></td>
-    </tr>)
+          <tbody>{allSpecies.map((species) =>
+            <tr key={species}>
+              <td>{species}</td>
+              <td><EbiSpeciesIcon species={species} groupColors={groupColors}/></td>
+            </tr>
+          )}
+          </tbody>
+        </table>
+      </div>,
+      document.getElementById(target)
+    )
 
-  ReactDOM.render(
-    <div>
-      <table>
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Icon</th>
-        </tr>
-        </thead>
-        <tbody>
-          {allIcons}
-        </tbody>
-      </table>
-    </div>,
-    document.getElementById(target)
-  )
-}
-
-export {renderAll, render}
+export default _renderAll

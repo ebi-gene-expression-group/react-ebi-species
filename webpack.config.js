@@ -1,50 +1,51 @@
-var webpack = require('webpack')
-var path = require('path')
-var CleanWebpackPlugin = require('clean-webpack-plugin')
+const path = require(`path`)
+const CleanWebpackPlugin = require(`clean-webpack-plugin`)
+
+const commonPublicPath = `/dist/`
 
 module.exports = {
   entry: {
-    ebiSpeciesIcon: './src/index.js',
-    demo: './html/demo.js',
-    dependencies: ['react', 'react-dom']
-  },
-
-  output: {
-    library: '[name]',
-    path: path.resolve(__dirname, 'dist'),
-    filename: '[name].bundle.js',
-    publicPath: 'dist/'
+    reactEbiSpecies: `./src/index.js`,
+    reactEbiSpeciesBare: `./src/index.js`,
+    reactEbiSpeciesClassyDemo: `./html/classyDemo.js`,
+    reactEbiSpeciesBareDemo: `./html/bareDemo.js`
   },
 
   plugins: [
-    new CleanWebpackPlugin(['dist'], {verbose: true, dry: false}),
-    new webpack.optimize.CommonsChunkPlugin({
-      name: 'dependencies',
-      filename: 'vendorCommons.bundle.js',
-      minChunks: Infinity     // Explicit definition-based split, see dependencies entry
-    }),
-    new webpack.DefinePlugin({
-      "process.env": {
-        NODE_ENV: process.env.NODE_ENV === 'production' ? JSON.stringify("production") : JSON.stringify("development")
-      }
-    })
+    new CleanWebpackPlugin([`dist`])
   ],
+
+  output: {
+    library: `[name]`,
+    filename: `[name].bundle.js`,
+    publicPath: commonPublicPath
+  },
+
+  optimization: {
+    splitChunks: {
+      cacheGroups: {
+        commons: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all'
+        }
+      }
+    }
+  },
 
   module: {
     rules: [
       {
-        test: /\.css$/,
-        use: ['style-loader', 'css-loader']
-      },
-      {
-        test: /\.js$/,
+        test: /\.js$/i,
         exclude: /node_modules\//,
-        use: ['babel-loader']
+        use: `babel-loader`
       }
     ]
   },
 
   devServer: {
-    port: 9000
+    port: 9000,
+    contentBase: path.resolve(__dirname, `html`),
+    publicPath: commonPublicPath
   }
 }

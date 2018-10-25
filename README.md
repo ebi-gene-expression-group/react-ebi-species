@@ -1,59 +1,95 @@
 # EBI species icons for React
 
-[![Build Status](https://travis-ci.org/gxa/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species) [![Coverage Status](https://coveralls.io/repos/github/gxa/react-ebi-species/badge.svg?branch=master)](https://coveralls.io/github/gxa/react-ebi-species?branch=master) [![Dependency Status](https://gemnasium.com/badges/github.com/gxa/react-ebi-species.svg)](https://gemnasium.com/github.com/gxa/react-ebi-species)
+[![Build Status](https://travis-ci.org/ebi-gene-expression-group/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species) [![Coverage Status](https://coveralls.io/repos/github/ebi-gene-expression-group/react-ebi-species/badge.svg?branch=master)](https://coveralls.io/github/ebi-gene-expression-group/react-ebi-species?branch=master)
 
-Icons from [EBI species](http://www.ebi.ac.uk/web_guidelines/EBI-Icon-fonts/v1.2/), mapped per species so one can select the correct icon programmatically.
+A React component to render organisms icons from the [EBI-Species font](https://www.ebi.ac.uk/style-lab/general/fonts/v1.2/#EBI-Species) declaratively.
+[Demo of all supported species](https://ebi-gene-expression-group.github.io/react-ebi-species/html/).
 
-[Demo of all supported species](https://gxa.github.io/react-ebi-species/html/).
+## How to use
+The component comes in two flavours:
+* Using classes `.icon .icon-species` declared in [`fonts.css` from the EBI Visual Framework](https://www.ebi.ac.uk/style-lab/websites/)
+* A bare-bones component that you can use in any web application without depending on the EBI VF styles being loaded in
+your environment
 
-It is meant to work with lowercase scientific names as in [Ensembl reference](http://www.ensembl.org/info/about/species.html). For some of (but not all) available, see search box in [Expression Atlas](http://www.ebi.ac.uk/gxa).
+The first one has the advantage that if the global CSS is changed, the component will then pick up the new styles. The second variant doesn’t need any dependency and can be used anywhere and it will just work. Notice that the second
+version still uses classes, but they will be uniquely scoped to the component
 
-Pull requests to enlarge the mapping of species to icons, or with alternative names of species, are very welcome!
-
-
+## Instructions
 To install:
-`npm install --save react-ebi-species`
+```
+npm install --save react-ebi-species
+```
 
 To use as a React component:
 ```
 import EbiSpeciesIcon from 'react-ebi-species'
 ...
-<EbiSpeciesIcon species="homo sapiens"/>
+<EbiSpeciesIcon species={`homo sapiens`}/>
+```
+
+Alternatively, to use the “no class” flavour:
+```
+import { EbiSpeciesIconBare as EbiSpeciesIcon } from 'react-ebi-species'
+...
+<EbiSpeciesIcon species={`homo sapiens`}/>
 ```
 
 To use as a renderer and attach the icons to DOM elements:
 ```
-import {render} from 'react-ebi-species'
+import { render } from 'react-ebi-species'
 ...
-render({species: 'homo sapiens'}, 'id-of-your-DOM-element')
+render({ species: 'homo sapiens' }, 'id-of-your-DOM-element')
 ```
 
-To use directly in your browser (see `html/index.hml`):
+Or:
 ```
-<script src="dist/vendorCommons.bundle.js"></script>
+import { renderBare as render } from 'react-ebi-species'
+...
+render({ species: 'homo sapiens' }, 'id-of-your-DOM-element')
+```
+
+To use directly in your browser (see the source of the demo pages):
+```
+<script src="dist/vendors.bundle.js"></script>
 <script src="dist/ebiSpeciesIcon.bundle.js"></script>
+<script src="dist/ebiSpeciesIconBare.bundle.js"></script>
 
 <script>
-    ebiSpeciesIcon.render({species: 'homo sapiens'}, 'id-of-your-DOM-element')
+    ebiSpeciesIcon.render({ species: 'homo sapiens' }, 'id-of-your-DOM-element')
+    ebiSpeciesIcon.renderBare({ species: 'homo sapiens' }, 'id-of-your-DOM-element')
 </script>
 
 ```
 
-Made in the EBI for the [Expression Atlas](http://www.ebi.ac.uk/gxa).
+## Props
+The `species` prop should be a [scientific name](http://www.ensembl.org/info/about/species.html), although the names
+given in the EBI-Species documentation and other variants are available. It is case insensitive. Have a look at the
+demo page for details.
 
+|      Prop     |  Type  |       Default value         |                     Use case                     |
+|---------------|--------|-----------------------------|--------------------------------------------------|
+| `species`     | string | 🐰 oryctolagus cuniculus 🐰  | The name of the species to be rendered           |
+| `groupColors` | object | ```{ warmBlooded: `indianred`, plants: `mediumseagreen`, other: `deepskyblue` }``` | Colours for groups of organisms |
+| `color`       | string |                             | An optional colour that overrides `groupColours` |
 
 # Contribute
-
+Pull requests to enlarge the mapping of species to icons, or with alternative names of species, are very welcome!
 Extend the mapping as required, then test locally through
 ```
-webpack-dev-server -d
+npx webpack-dev-server --mode=development
 ```
-Go to localhost:9000/html and see that the new icon appears there.
 
-It is also a good idea to verify that all tests pass
+Go to `localhost:9000` and see that the new icon appears there.
+
+It is also a good idea to verify that all tests pass:
 ```
-npm run coverage
+npm run testOnly
 ```
+
 Commit and PR away.
 
-It would be fairly easy to cut the React dependency out of this package if you just need the mapping - if you fork then we can share the species to icon mapping.
+It would be fairly easy to cut the React dependency out of this package if you just need the mapping - if you fork then
+we can share the species to icon mapping.
+
+# Credits
+Made in the EBI for [Expression Atlas](https://www.ebi.ac.uk/gxa).
