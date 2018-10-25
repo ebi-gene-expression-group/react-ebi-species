@@ -69,7 +69,7 @@ demo page for details.
 |      Prop     |  Type  |       Default value         |                     Use case                     |
 |---------------|--------|-----------------------------|--------------------------------------------------|
 | `species`     | string | 🐰 oryctolagus cuniculus 🐰  | The name of the species to be rendered           |
-| `groupColors` | object | ```{ warmBlooded: `indianred`, plants: `mediumseagreen`, other: `deepskyblue` }``` | Colours for group of animals |
+| `groupColors` | object | ```{ warmBlooded: `indianred`, plants: `mediumseagreen`, other: `deepskyblue` }``` | Colours for groups of organisms |
 | `color`       | string |                             | An optional colour that overrides `groupColours` |
 
 # Contribute
