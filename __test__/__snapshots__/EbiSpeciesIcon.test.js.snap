@@ -1608,6 +1608,30 @@ exports[`EbiSpeciesIcon with classes Icon of mapped species macaca mulatta match
 </EbiSpeciesIcon>
 `;
 
+exports[`EbiSpeciesIcon with classes Icon of mapped species marmoset matches snapshot 1`] = `
+<EbiSpeciesIcon
+  groupColors={
+    Object {
+      "other": "deepskyblue",
+      "plants": "mediumseagreen",
+      "warmBlooded": "indianred",
+    }
+  }
+  species="marmoset"
+>
+  <span
+    className="icon icon-species"
+    data-icon="q"
+    style={
+      Object {
+        "color": "indianred",
+      }
+    }
+    title="Marmoset"
+  />
+</EbiSpeciesIcon>
+`;
+
 exports[`EbiSpeciesIcon with classes Icon of mapped species monkey matches snapshot 1`] = `
 <EbiSpeciesIcon
   groupColors={

@@ -18,5 +18,5 @@ test(`There are 65 mapped characters`, () => {
     .map(lookUpIcon)
     .map((groupAndChar) => groupAndChar[1])
 
-  expect(new Set(mappedChars).size).toEqual(65)
+  expect(new Set(mappedChars).size).toEqual(66)
 })
