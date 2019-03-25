@@ -6298,6 +6298,100 @@ exports[`EbiSpeciesIconBare Icon of mapped species macaca mulatta matches snapsh
 </EbiSpeciesIconBare>
 `;
 
+exports[`EbiSpeciesIconBare Icon of mapped species marmoset matches snapshot 1`] = `
+<EbiSpeciesIconBare
+  groupColors={
+    Object {
+      "other": "deepskyblue",
+      "plants": "mediumseagreen",
+      "warmBlooded": "indianred",
+    }
+  }
+  species="marmoset"
+>
+  <Styled(styled.span)
+    data-icon="q"
+    style={
+      Object {
+        "color": "indianred",
+      }
+    }
+    title="Marmoset"
+  >
+    <StyledComponent
+      data-icon="q"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bwzfXH",
+            "isStatic": true,
+            "lastClassName": "bAvtRF",
+            "rules": Array [
+              "
+  text-decoration: none;
+  font-style: normal;
+  text-rendering: optimizeLegibility !important;
+  background-size: contain;
+  font-weight: 400;
+",
+              "
+  @font-face {
+    font-family: 'EBI-Species';
+    src:url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.eot');
+    src:url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.eot?#iefix') format('embedded-opentype'),
+      url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.woff2') format('woff2'),
+      url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.woff') format('woff'),
+      url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.svg#EBI-Species') format('svg'),
+      url('https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.2/EBI-Species/fonts/EBI-Species.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  ::before {
+    font-family: 'EBI-Species';
+    content: attr(data-icon);
+    text-transform: none;
+  }
+",
+            ],
+          },
+          "displayName": "Styled(styled.span)",
+          "foldedComponentIds": Array [
+            "sc-bdVaJa",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-bwzfXH",
+          "target": "span",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      style={
+        Object {
+          "color": "indianred",
+        }
+      }
+      title="Marmoset"
+    >
+      <span
+        className="sc-bdVaJa sc-bwzfXH bAvtRF"
+        data-icon="q"
+        style={
+          Object {
+            "color": "indianred",
+          }
+        }
+        title="Marmoset"
+      />
+    </StyledComponent>
+  </Styled(styled.span)>
+</EbiSpeciesIconBare>
+`;
+
 exports[`EbiSpeciesIconBare Icon of mapped species monkey matches snapshot 1`] = `
 <EbiSpeciesIconBare
   groupColors={

@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ebi-gene-expression-group/react-ebi-species.svg?branch=master)](https://travis-ci.org/gxa/react-ebi-species) [![Coverage Status](https://coveralls.io/repos/github/ebi-gene-expression-group/react-ebi-species/badge.svg?branch=master)](https://coveralls.io/github/ebi-gene-expression-group/react-ebi-species?branch=master)
 
-A React component to render organisms icons from the [EBI-Species font](https://www.ebi.ac.uk/style-lab/general/fonts/v1.2/#EBI-Species) declaratively.
+A React component to render organisms icons from the [EBI-Species font](https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/#EBI-Species) declaratively.
 [Demo of all supported species](https://ebi-gene-expression-group.github.io/react-ebi-species/html/).
 
 ## How to use

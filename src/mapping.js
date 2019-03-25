@@ -1,5 +1,5 @@
 const mapping = {
-  "warmBlooded": {
+  warmBlooded: {
     "a": [`alpaca`, `vicugna pacos`],
     "l": [`armadillo`],
     "(": [`bat`],
@@ -21,6 +21,7 @@ const mapping = {
     "3": [`kangaroo rat`],
     "r": [`monkey`, `macaca mulatta`],
     "9": [`monodelphis`, `monodelphis domestica`],
+    "q": [`marmoset`],
     "M": [`mouse`, `mus musculus`],
     "N": [`mouse lemur`],
     "*": [`orangutan`, `pongo abelii`, `pongo pygmaeus`],
@@ -34,7 +35,7 @@ const mapping = {
     "I": [`squirrel`],
     "w": [`wallaby`]
   },
-  "plants": {
+  plants: {
     "5": [`barley`, `hordeum vulgare`, `hordeum vulgare subsp. vulgare`],
     "B": [`brassica`, `brassica oleracea`, `brassica rapa`, `arabidopsis`, `arabidopsis thaliana`, `arabidopsis lyrata`],
     "%": [`brachypodium`, `brachypodium distachyon`],
