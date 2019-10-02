@@ -28,7 +28,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species alpaca matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -67,6 +67,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species alpaca matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -122,7 +123,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species amoeba matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -161,6 +162,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species amoeba matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -216,7 +218,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species anolis carolinensis matches s
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -255,6 +257,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species anolis carolinensis matches s
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -310,7 +313,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species anolis matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -349,6 +352,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species anolis matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -404,7 +408,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species anopheles gambiae matches sna
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -443,6 +447,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species anopheles gambiae matches sna
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -498,7 +503,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis lyrata matches sn
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -537,6 +542,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis lyrata matches sn
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -592,7 +598,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -631,6 +637,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -686,7 +693,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis thaliana matches 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -725,6 +732,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species arabidopsis thaliana matches 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -780,7 +788,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species armadillo matches snapshot 1`
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -819,6 +827,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species armadillo matches snapshot 1`
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -874,7 +883,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species aspergillus fumigatus matches
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -913,6 +922,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species aspergillus fumigatus matches
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -968,7 +978,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species aspergillus matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1007,6 +1017,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species aspergillus matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1062,7 +1073,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species barley matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1101,6 +1112,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species barley matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1156,7 +1168,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bat matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1195,6 +1207,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bat matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1250,7 +1263,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bee matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1289,6 +1302,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bee matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1344,7 +1358,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bos taurus matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1383,6 +1397,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bos taurus matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1438,7 +1453,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brachypodium distachyon match
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1477,6 +1492,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brachypodium distachyon match
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1532,7 +1548,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brachypodium matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1571,6 +1587,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brachypodium matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1626,7 +1643,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brassica matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1665,6 +1682,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brassica matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1720,7 +1738,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brassica oleracea matches sna
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1759,6 +1777,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brassica oleracea matches sna
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1814,7 +1833,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brassica rapa matches snapsho
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1853,6 +1872,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species brassica rapa matches snapsho
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1908,7 +1928,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bug matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -1947,6 +1967,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species bug matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2002,7 +2023,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species c elegans matches snapshot 1`
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2041,6 +2062,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species c elegans matches snapshot 1`
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2096,7 +2118,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species caenorhabditis elegans matche
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2135,6 +2157,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species caenorhabditis elegans matche
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2190,7 +2213,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species canis lupus familiaris matche
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2229,6 +2252,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species canis lupus familiaris matche
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2284,7 +2308,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species canis lupus matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2323,6 +2347,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species canis lupus matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2378,7 +2403,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species cat matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2417,6 +2442,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species cat matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2472,7 +2498,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species cavia porcellus matches snaps
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2511,6 +2537,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species cavia porcellus matches snaps
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2566,7 +2593,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species chicken matches snapshot 1`] 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2605,6 +2632,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species chicken matches snapshot 1`] 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2660,7 +2688,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species chimpanzee matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2699,6 +2727,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species chimpanzee matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2754,7 +2783,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species corn matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2793,6 +2822,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species corn matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2848,7 +2878,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species cow matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2887,6 +2917,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species cow matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -2942,7 +2973,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species danio rerio matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -2981,6 +3012,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species danio rerio matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3036,7 +3068,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species diatom matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3075,6 +3107,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species diatom matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3130,7 +3163,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species dog matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3169,6 +3202,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species dog matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3224,7 +3258,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species dolphin matches snapshot 1`] 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3263,6 +3297,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species dolphin matches snapshot 1`] 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3318,7 +3353,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species drosophila melanogaster match
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3357,6 +3392,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species drosophila melanogaster match
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3412,7 +3448,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ecoli matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3451,6 +3487,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ecoli matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3506,7 +3543,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species elephant matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3545,6 +3582,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species elephant matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3600,7 +3638,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species elephas maximus matches snaps
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3639,6 +3677,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species elephas maximus matches snaps
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3694,7 +3733,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species equus caballus matches snapsh
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3733,6 +3772,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species equus caballus matches snapsh
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3788,7 +3828,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species erinaceus europaeus matches s
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3827,6 +3867,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species erinaceus europaeus matches s
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3882,7 +3923,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species escherichia coli matches snap
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -3921,6 +3962,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species escherichia coli matches snap
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -3976,7 +4018,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species felis catus matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4015,6 +4057,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species felis catus matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4070,7 +4113,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ferret matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4109,6 +4152,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ferret matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4164,7 +4208,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species finch matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4203,6 +4247,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species finch matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4258,7 +4303,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species fly matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4297,6 +4342,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species fly matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4352,7 +4398,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species frog matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4391,6 +4437,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species frog matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4446,7 +4493,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species fungus matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4485,6 +4532,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species fungus matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4540,7 +4588,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species gallus gallus matches snapsho
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4579,6 +4627,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species gallus gallus matches snapsho
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4634,7 +4683,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species glycine max matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4673,6 +4722,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species glycine max matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4728,7 +4778,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species glycinemax matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4767,6 +4817,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species glycinemax matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4822,7 +4873,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species goat matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4861,6 +4912,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species goat matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -4916,7 +4968,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species gorilla gorilla matches snaps
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -4955,6 +5007,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species gorilla gorilla matches snaps
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5010,7 +5063,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species gorilla matches snapshot 1`] 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5049,6 +5102,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species gorilla matches snapshot 1`] 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5104,7 +5158,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species grapes matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5143,6 +5197,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species grapes matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5198,7 +5253,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species guinea pig matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5237,6 +5292,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species guinea pig matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5292,7 +5348,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species hedgehog matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5331,6 +5387,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species hedgehog matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5386,7 +5443,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species homo sapiens matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5425,6 +5482,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species homo sapiens matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5480,7 +5538,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species hordeum vulgare matches snaps
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5519,6 +5577,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species hordeum vulgare matches snaps
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5574,7 +5633,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species hordeum vulgare subsp. vulgar
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5613,6 +5672,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species hordeum vulgare subsp. vulgar
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5668,7 +5728,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species horse matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5707,6 +5767,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species horse matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5762,7 +5823,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species human matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5801,6 +5862,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species human matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5856,7 +5918,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species kangaroo rat matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5895,6 +5957,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species kangaroo rat matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5950,7 +6013,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species louse matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -5989,6 +6052,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species louse matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6044,7 +6108,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species loxodonta africana matches sn
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6083,6 +6147,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species loxodonta africana matches sn
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6138,7 +6203,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species loxodonta cyclotis matches sn
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6177,6 +6242,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species loxodonta cyclotis matches sn
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6232,7 +6298,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species macaca mulatta matches snapsh
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6271,6 +6337,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species macaca mulatta matches snapsh
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6326,7 +6393,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species marmoset matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6365,6 +6432,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species marmoset matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6420,7 +6488,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species monkey matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6459,6 +6527,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species monkey matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6514,7 +6583,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species monodelphis domestica matches
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6553,6 +6622,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species monodelphis domestica matches
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6608,7 +6678,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species monodelphis matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6647,6 +6717,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species monodelphis matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6702,7 +6773,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mosquito matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6741,6 +6812,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mosquito matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6796,7 +6868,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mouse lemur matches snapshot 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6835,6 +6907,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mouse lemur matches snapshot 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6890,7 +6963,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mouse matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -6929,6 +7002,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mouse matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -6984,7 +7058,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mus musculus matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7023,6 +7097,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mus musculus matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7078,7 +7153,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mustela putorius furo matches
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7117,6 +7192,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species mustela putorius furo matches
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7172,7 +7248,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species orangutan matches snapshot 1`
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7211,6 +7287,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species orangutan matches snapshot 1`
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7266,7 +7343,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ornithorhynchus anatinus matc
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7305,6 +7382,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ornithorhynchus anatinus matc
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7360,7 +7438,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species oryctolagus cuniculus matches
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7399,6 +7477,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species oryctolagus cuniculus matches
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7454,7 +7533,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species oryza sativa japonica group m
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7493,6 +7572,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species oryza sativa japonica group m
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7548,7 +7628,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species oryza sativa matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7587,6 +7667,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species oryza sativa matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7642,7 +7723,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ovis aries matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7681,6 +7762,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ovis aries matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7736,7 +7818,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pan paniscus matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7775,6 +7857,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pan paniscus matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7830,7 +7913,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pan troglodytes matches snaps
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7869,6 +7952,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pan troglodytes matches snaps
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -7924,7 +8008,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species papio anubis matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -7963,6 +8047,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species papio anubis matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8018,7 +8103,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species physcomitrella patens matches
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8057,6 +8142,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species physcomitrella patens matches
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8112,7 +8198,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pig matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8151,6 +8237,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pig matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8206,7 +8293,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species plant matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8245,6 +8332,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species plant matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8300,7 +8388,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species plasmodium berghei matches sn
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8339,6 +8427,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species plasmodium berghei matches sn
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8394,7 +8483,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species plasmodium matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8433,6 +8522,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species plasmodium matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8488,7 +8578,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species platypus matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8527,6 +8617,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species platypus matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8582,7 +8673,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pongo abelii matches snapshot
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8621,6 +8712,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pongo abelii matches snapshot
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8676,7 +8768,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pongo pygmaeus matches snapsh
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8715,6 +8807,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pongo pygmaeus matches snapsh
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8770,7 +8863,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pufferfish matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8809,6 +8902,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pufferfish matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8864,7 +8958,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pyrrhula pyrrhula matches sna
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8903,6 +8997,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species pyrrhula pyrrhula matches sna
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -8958,7 +9053,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rabbit matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -8997,6 +9092,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rabbit matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9052,7 +9148,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rat matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9091,6 +9187,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rat matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9146,7 +9243,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rattus norvegicus matches sna
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9185,6 +9282,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rattus norvegicus matches sna
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9240,7 +9338,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ray matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9279,6 +9377,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species ray matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9334,7 +9433,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rice matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9373,6 +9472,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species rice matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9428,7 +9528,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species saccharomyces cerevisiae matc
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9467,6 +9567,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species saccharomyces cerevisiae matc
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9522,7 +9623,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species schistosoma mansoni matches s
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9561,6 +9662,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species schistosoma mansoni matches s
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9616,7 +9718,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species schizosaccharomyces pombe mat
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9655,6 +9757,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species schizosaccharomyces pombe mat
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9710,7 +9813,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species scorpion matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9749,6 +9852,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species scorpion matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9804,7 +9908,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species sheep matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9843,6 +9947,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species sheep matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9898,7 +10003,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species shrew matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -9937,6 +10042,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species shrew matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9992,7 +10098,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species snail matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10031,6 +10137,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species snail matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10086,7 +10193,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species solanum lycopersicum matches 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10125,6 +10232,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species solanum lycopersicum matches 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10180,7 +10288,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species solanum tuberosum matches sna
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10219,6 +10327,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species solanum tuberosum matches sna
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10274,7 +10383,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species sorghum bicolor matches snaps
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10313,6 +10422,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species sorghum bicolor matches snaps
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10368,7 +10478,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species spider matches snapshot 1`] =
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10407,6 +10517,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species spider matches snapshot 1`] =
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10462,7 +10573,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species squirrel matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10501,6 +10612,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species squirrel matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10556,7 +10668,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species sus scrofa matches snapshot 1
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10595,6 +10707,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species sus scrofa matches snapshot 1
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10650,7 +10763,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species tetraodon nigroviridis matche
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10689,6 +10802,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species tetraodon nigroviridis matche
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10744,7 +10858,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species tick matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10783,6 +10897,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species tick matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10838,7 +10953,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species tomatoes matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10877,6 +10992,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species tomatoes matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -10932,7 +11048,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species triticum aestivum matches sna
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -10971,6 +11087,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species triticum aestivum matches sna
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11026,7 +11143,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species vicugna pacos matches snapsho
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11065,6 +11182,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species vicugna pacos matches snapsho
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11120,7 +11238,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species virus matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11159,6 +11277,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species virus matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11214,7 +11333,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species vitis vinifera matches snapsh
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11253,6 +11372,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species vitis vinifera matches snapsh
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11308,7 +11428,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species wallaby matches snapshot 1`] 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11347,6 +11467,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species wallaby matches snapshot 1`] 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11402,7 +11523,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species xenopus (silurana) tropicalis
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11441,6 +11562,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species xenopus (silurana) tropicalis
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11496,7 +11618,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species xenopus tropicalis matches sn
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11535,6 +11657,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species xenopus tropicalis matches sn
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11590,7 +11713,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species yeast matches snapshot 1`] = 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11629,6 +11752,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species yeast matches snapshot 1`] = 
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11684,7 +11808,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species zea mays matches snapshot 1`]
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11723,6 +11847,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species zea mays matches snapshot 1`]
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11778,7 +11903,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species zebrafish matches snapshot 1`
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11817,6 +11942,7 @@ exports[`EbiSpeciesIconBare Icon of mapped species zebrafish matches snapshot 1`
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -11872,7 +11998,7 @@ exports[`EbiSpeciesIconBare Icon of unknown species matches snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "sc-bwzfXH",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "bAvtRF",
             "rules": Array [
               "
@@ -11911,6 +12037,7 @@ exports[`EbiSpeciesIconBare Icon of unknown species matches snapshot 1`] = `
           "styledComponentId": "sc-bwzfXH",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
