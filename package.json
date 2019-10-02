@@ -1,5 +1,5 @@
 {
-  "name": "react-ebi-species",
+  "name": "@ebi-gene-expression-group/react-ebi-species",
   "version": "2.2.1",
   "description": "React component based on the EBI species icons",
   "main": "lib/index.js",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ebi-gene-expression-group/react-ebi-species"
+    "url": "git+https://github.com/ebi-gene-expression-group/react-ebi-species.git"
   },
   "keywords": [
     "react",
@@ -65,5 +65,12 @@
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "^3.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ebi-gene-expression-group/react-ebi-species/issues"
+  },
+  "homepage": "https://github.com/ebi-gene-expression-group/react-ebi-species#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
