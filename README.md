@@ -16,40 +16,40 @@ version still uses classes, but they will be uniquely scoped to the component
 
 ## Instructions
 To install:
-```
-npm install --save react-ebi-species
+```bash
+npm install @ebi-gene-expression-group/react-ebi-species --save
 ```
 
 To use as a React component:
-```
-import EbiSpeciesIcon from 'react-ebi-species'
+```javascript
+import EbiSpeciesIcon from '@ebi-gene-expression-group/react-ebi-species'
 ...
 <EbiSpeciesIcon species={`homo sapiens`}/>
 ```
 
 Alternatively, to use the “no class” flavour:
-```
-import { EbiSpeciesIconBare as EbiSpeciesIcon } from 'react-ebi-species'
+```javascript
+import { EbiSpeciesIconBare as EbiSpeciesIcon } from '@ebi-gene-expression-group/react-ebi-species'
 ...
 <EbiSpeciesIcon species={`homo sapiens`}/>
 ```
 
 To use as a renderer and attach the icons to DOM elements:
-```
-import { render } from 'react-ebi-species'
+```javascript
+import { render } from '@ebi-gene-expression-group/react-ebi-species'
 ...
 render({ species: 'homo sapiens' }, 'id-of-your-DOM-element')
 ```
 
 Or:
-```
-import { renderBare as render } from 'react-ebi-species'
+```javascript
+import { renderBare as render } from '@ebi-gene-expression-group/react-ebi-species'
 ...
 render({ species: 'homo sapiens' }, 'id-of-your-DOM-element')
 ```
 
 To use directly in your browser (see the source of the demo pages):
-```
+```html
 <script src="dist/vendors.bundle.js"></script>
 <script src="dist/ebiSpeciesIcon.bundle.js"></script>
 <script src="dist/ebiSpeciesIconBare.bundle.js"></script>
@@ -75,15 +75,15 @@ demo page for details.
 # Contribute
 Pull requests to enlarge the mapping of species to icons, or with alternative names of species, are very welcome!
 Extend the mapping as required, then test locally through
-```
-npx webpack-dev-server --mode=development
+```bash
+npx webpack-dev-server -d
 ```
 
 Go to `localhost:9000` and see that the new icon appears there.
 
 It is also a good idea to verify that all tests pass:
-```
-npm run testOnly
+```bash
+npx jest
 ```
 
 Commit and PR away.
