@@ -52,7 +52,7 @@ const mapping = {
     "£": [`aspergillus`, `aspergillus fumigatus`],
     "$": [`bee`],
     "b": [`bug`],
-    "W": [`c elegans`, `caenorhabditis elegans`, `schistosoma mansoni`],
+    "W": [`c elegans`, `caenorhabditis elegans`],
     "2": [`diatom`],
     "L": [`ecoli`, `escherichia coli`],
     "F": [`fly`, `drosophila melanogaster`],
